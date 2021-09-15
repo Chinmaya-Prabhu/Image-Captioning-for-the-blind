@@ -1,0 +1,2934 @@
+ATM_queue1.jpg#0		People are standing in queue outside Metrobank ATM.
+ATM_queue1.jpg#1	Three people in the queue are wearing red tops.
+ATM_queue1.jpg#2	There is a huge planter adjacent to ATM with green plant in it.
+ATM_queue2.jpg#0	The ATM counters belong to the bank CHASE.
+ATM_queue2.jpg#1	A lady in the queue is holding a pink umbrella.
+ATM_queue2.jpg#2	Person at one of the counters is carrying a red bag.
+ATM_queue3.jpg#0	There are two customers in the queue at the ATM counter.
+ATM_queue3.jpg#1	The customers in the queue are wearing white shirt.
+ATM_queue3.jpg#2	The ATM has a Rabbit picture on it.
+ATM_queue4.jpg#0	The ATM counter belongs to Bank of Ireland.
+ATM_queue4.jpg#1	The person at the counter is wearing a green shirt.
+ATM_queue4.jpg#2	The person waiting in the queue is carrying a backpack.
+ATM_queue5.jpg#0	There is a metal shade for the ATM counter.
+ATM_queue5.jpg#1	The first person in the queue at the counter is wearing a red sweater.
+ATM_queue5.jpg#2	There is a black dustbin near the ATM counter.
+ATM_queue6.jpg#0	A camera is fixed to the pillar beside the ATM.
+ATM_queue6.jpg#1	All four customers in the queue are wearing coats.
+ATM_queue6.jpg#2	The colours of the ATM counter are majorly Grey and red.
+ATM_queue7.jpg#0	A person is inserting the card into the ATM machine.
+ATM_queue7.jpg#1	The person at the ATM counter is wearing a red shirt.
+ATM_queue7.jpg#2	There is one person waiting in the queue.
+ATM_queue8.jpg#0	There are two ATM machines in red and yellow colour.
+ATM_queue8.jpg#1	There is a glass entrance beside the ATM machine.
+ATM_queue8.jpg#2	A person in the queue is carrying a backpack.
+ATM_queue9.jpg#0	The ATM belongs to Ulster Bank.
+ATM_queue9.jpg#1	The name plate is of blue and white in colour.
+ATM_queue9.jpg#2	There are three people standing in the queue.
+ATM_queue10.jpg#0	There are six ATM counters.
+ATM_queue10.jpg#1	There are two queues with multiple people.
+ATM_queue10.jpg#2	The floor at the ATM is shiny and is brown and white in colour.
+ATM_queue11.jpg#0	There are six people standing in the Queue.
+ATM_queue11.jpg#1	All the people in the queue are wearing jackets.
+ATM_queue11.jpg#2	All the people in the queue are blonde.
+ATM_queue12.jpg#0	There is a red colour trolley near the ATM counter.
+ATM_queue12.jpg#1	The man at the beginning of the queue is wearing a black jacket.
+ATM_queue12.jpg#2	There are flag posts outside the area of the counter.
+ATM_queue13.jpg#0	The person at the counter is wearing a white coat.
+ATM_queue13.jpg#1	A person in the queue with white coat which has furry brown hood.
+ATM_queue13.jpg#2	There are seven people in queue at the ATM machine.
+ATM_queue14.jpg#0	The person near the counter is wearing dark gray coat.
+ATM_queue14.jpg#1	The person in the queue is using a mobile Phone.
+ATM_queue14.jpg#2	There are two ATM counters beside each other.
+ATM_queue15.jpg#0	The colour of the ATM counter is orange.
+ATM_queue15.jpg#1	The person at the counter is inserting a card into the ATM machine.
+ATM_queue15.jpg#2	There are three people in the queue.
+ATM_queue16.jpg#0	Person at the counter is wearing a green jacket.
+ATM_queue16.jpg#1	Word CASH is written above the ATM counter.
+ATM_queue16.jpg#2	Five people are standing in the queue.
+ATM_queue17.jpg#0	There are two people in the queue.
+ATM_queue17.jpg#1	Person near the counter is wearing long black coat.
+ATM_queue17.jpg#2	There is stone cladded wall near the ATM.
+ATM_queue18.jpg#0	The ATM is fixed to red painted wall.
+ATM_queue18.jpg#1	ATM counter colour and the person’s jacket at the counter is both grey.
+ATM_queue18.jpg#2	One person in the queue is wearing blue shorts.
+ATM_queue19.jpg#0	People in queue are all wearing format attire.
+ATM_queue19.jpg#1	Person at the counter is inserting the card.
+ATM_queue19.jpg#2	People in the queue are carrying carry bags.
+ATM_queue20.jpg#0	The ATM counter has the name 24Hr cash written on it.
+ATM_queue20.jpg#1	Three people are seen in the queue.
+ATM_queue20.jpg#2	Statement Free cash withdrawals is written on the ATM machine. 
+ATM21.jpg#0	There is a pillar beside the ATM counter.
+ATM21.jpg#1	A huge planter with green plants beside the ATM counter.
+ATM21.jpg#2	The ATM belongs to us bank with tag line All of us serving you.
+ATM22.jpg#0	ATM is of Royal Bank of Scotland.
+ATM22.jpg#1	Tagline RBS Cash line is written on the ATM counter.
+ATM22.jpg#2	ATM machine is grey in colour with blue background.
+ATM23.jpg#0	ATM is of Royal Bank of Scotland.
+ATM23.jpg#1	The ATM machine is fixed to a stone cladded wall.
+ATM23.jpg#2	The ATM machine is majorly blue and grey in colour.
+ATM24.jpg#0	The ATM is of Yorkshire Bank.
+ATM24.jpg#1	ATM machine has a green inlet for cards.
+ATM24.jpg#2	ATM machine has option of Free balance enquiries.
+ATM25.jpg#0	The ATM is of NatWest Bank.
+ATM25.jpg#1	ATM has mention of provision for Free cash withdrawals.
+ATM25.jpg#2	ATM has mention of provision for mobile phone top up.
+ATM26.jpg#0	The ATM is of NatWest Bank with Cash out tagline.
+ATM26.jpg#1	ATM machine has a green inlet for cards.
+ATM26.jpg#2	The ATM is fixed to a tiled wall.
+ATM27.jpg#0	The ATM is of NatWest Bank with Cash out tagline.
+ATM27.jpg#1	The colour of the ATM counter is majorly brown.
+ATM27.jpg#2	The ATM screen shows the message to Remember to always shield the pin.
+ATM28.jpg#0	Two ATM counters are adjacent to each other.
+ATM28.jpg#1	THere is Wooden separators between the ATM counters.
+ATM28.jpg#2	THE wooden separators between the ATM counters have waste bins in them.
+ATM29.jpg#0	Three ATM counters are in a line.
+ATM29.jpg#1	The ATMs are of NatWest Bank with Cash out tagline.
+ATM29.jpg#2	ATM mentions provision for Free cash withdrawals and Mobile phone top up.
+ATM30.jpg#0	Two ATMs of Bank link are placed adjacent to each other.
+ATM30.jpg#1	The ATMs are separated by a pillar.
+ATM30.jpg#2	The ATMs have blue display screen and green card inlet.
+bench1.jpg#0	The wooden bench has iron legs.
+bench1.jpg#1	Bench is laid on a stone platform.
+bench1.jpg#2	Bench is surrounded by green lawn.
+bench2.jpg#0	The Wooden long chair has resting handles.
+bench2.jpg#1	Bench is laid on a stone platform in memory of someone.
+bench2.jpg#2	Bench is surrounded by green trees.
+bench3.jpg#0	Garden benches have slant backrest.
+bench3.jpg#1	Benches have Black iron legs. 
+bench3.jpg#2	There are Green shrubs behind the benches.
+bench4.jpg#0	The wooden Garden bench has backrest, iron legs and iron hand rests.
+bench4.jpg#1	The bench is positioned on green lawn.
+bench4.jpg#2	Two wooden benches are adjacent to the pathway.
+bench5.jpg#0	White wooden garden bench has backrest.
+bench5.jpg#1	Bench is laid on the road with Green lawn behind.
+bench5.jpg#2	Bench has designer iron legs and iron hand rest.
+bench6.jpg#0	Wooden long chair has resting handles.
+bench6.jpg#1	Bench is laid on a stone platform in memory of someone.
+bench6.jpg#2	Bench is surrounded by green trees.
+bench7.jpg#0	Wooden long chair is light brown in colour with hand rest.
+bench7.jpg#1	Bench It is Laid on Green lawn.
+bench7.jpg#2	Thick shrubs, plants and trees are seen behind the long chair.
+bench8.jpg#0	Wooden long chair is faded brown in colour.
+bench8.jpg#1	Two tall trees are seen behind the chair.
+bench8.jpg#2	Chair is surrounded by thick green lawn.
+bench9.jpg#0	Metal garden long chair in black in colour.
+bench9.jpg#1	A lamppost is seen beside the chair.
+bench9.jpg#2	bench is positioned on Green lawn beside the walkway of a Garden.
+bench10.jpg#0	Wooden bench has back rest and no hand rest.
+bench10.jpg#1	Bench has metal legs and side support.
+bench10.jpg#2	Bench is on the garden walkway which is made of stone cladding.
+bench11.jpg#0	The chair has backrest and hand rest and is positioned on stone platform.
+bench11.jpg#1	The chair has metal legs and hand rest with carvings.
+bench11.jpg#2	There is Aa black lamppost and foot lamps beside the chair.
+bench12.jpg#0	wooden bench is cream in colour with slant backrest.
+bench12.jpg#1	Bench has metal legs and hand rest with lot of carvings.
+bench12.jpg#2	bench is positioned on a stone platform.
+bench13.jpg#0	Light brown wooden long chair has hand rest.
+bench13.jpg#1	Bench is Positioned on Green lawn.
+bench13.jpg#2	Large trees and shrubs are seen behind the chair.
+bench14.jpg#0	Wooden bench has slant backrest and hand support.
+bench14.jpg#1	Bench has metal legs and central partitioning hand rest.
+bench14.jpg#2	Huge lawn and trees are seen behind the bench.
+bench15.jpg#0	White metal bench has backrest and hand rest.
+bench15.jpg#1	Carvings are seen on hand rest and legs of the bench.
+bench15.jpg#2	terracotta planters with flowering plants are seen on either side of the bench.
+bench16.jpg#0	Table with two benches is laid on green lawn.
+bench16.jpg#1	The table and benches are made of wooden planks.
+bench16.jpg#2	The table and planks are fastened with nuts.
+bench17.jpg#0	Table and bench set is laid on green lawn.
+bench17.jpg#1	There is a yellow lawn adjacent to green lawn.
+bench17.jpg#2	A stone well is seen near the bench set.
+bench18.jpg#0	The table bench set is on green lawn.
+bench18.jpg#1	Green bushy compound is surrounding the green lawn.
+bench18.jpg#2	Huge trees are seen behind the bushy compound.
+bench19.jpg#0	Two benches are laid on either side of a Table.
+bench19.jpg#1	The table and bench set is laid on Green lawn.
+bench19.jpg#2	There are flowery bushes adjacent to the lawn.
+bench20.jpg#0	Two benches made of wooden planks are joined in one corner.
+bench20.jpg#1	The benches have back rest with wooden planks.
+bench20.jpg#2	The corner where the benches are joined has a flowery plant.
+bench21.jpg#0	Wooden bench with metal legs is laid on stone cladded surface.
+bench21.jpg#1	A manhole is seen adjacent to the bench.
+bench21.jpg#2	A plant with metal cylindrical protect is seen beside the bench.
+bench22.jpg#0	The bench made with four wooden planks has no hand rest.
+bench22.jpg#1	Heavy metal legs of the bench are positioned on a metal platform.
+bench22.jpg#2	Bench is positioned on the lawn beside the garden pathway.
+bench23.jpg#0	The bench is made with four wooden planks and no hand rest.
+bench23.jpg#1	A huge tree is seen beside the bench.
+bench23.jpg#2	The bench with metal legs and back support is positioned on metal platform.
+bench24.jpg#0	Wooden bench with wooden planks has no hand rest.
+bench24.jpg#1	There are metal legs and metal frame for the bench.
+bench24.jpg#2	A pigeon is seen near the wooden bench.
+bench25.jpg#0	The metal bench has wooden plank for back rest and metal hand rest.
+bench25.jpg#1	Dried leaves are seen on the ground.
+bench25.jpg#2	Two lanes of huge tries with dried leaves are seen around the bench.
+bench26.jpg#0	Wooden bench has planks and metal back support and legs.
+bench26.jpg#1	There is huge play area and parked cars behind the bench.
+bench26.jpg#2	There is dustbin between the benches and a huge tree behind the bench.
+bench27.jpg#0	A row of benches have wooden planks, backrest and hand support.
+bench27.jpg#1	Benches are lined up on the cemented walkways. 
+bench27.jpg#2	There is double road behind the line of benches.
+bench28.jpg#0	Two benches have wooden planks and metal support with partition
+bench28.jpg#1	A man is seen walking beside the benches.
+bench28.jpg#2	Huge crowd of people are seen shopping.
+bench29.jpg#0	There is a C bench with wooden planks and metal legs. 
+bench29.jpg#1	Another circular bench seen has partial back support.
+bench29.jpg#2	Bench is around a huge tree and small flowery shrubs.
+bench30.jpg#0	Bench has wooden planks for both seating and back rest.
+bench30.jpg#1	Bench is positioned on a cladded surface and has no hand support.
+bench30.jpg#2	Row houses are seen behind the bench and lamp posts are on the road.
+bus1.jpg#0	A double decker bus in red colour is parked in the stop.
+bus1.jpg#1	People are getting into the bus from the single entrance.
+bus1.jpg#2	There is a pole with details of bus numbers reaching the stop. 
+bus2.jpg#0	The red bus has details of the last stop written on it. 
+bus2.jpg#1	The number on the bus is indicative of the route.
+bus2.jpg#2	Bus has two side mirrors in yellow colour.
+bus3.jpg#0	The red bus is in a busy street. Multiple vehicles are seen around the bus.
+bus3.jpg#1	The bus frequency is seven minutes and offers all day travel at 3.5 euros.
+bus3.jpg#2	The bus belongs to Nottingham city transport.
+bus4.jpg#0	A Red bus is parked in the bus stop.
+bus4.jpg#1	A man and woman are walking beside the bus.
+bus4.jpg#2	There are two birds on the pavement near the bus stop.
+bus5.jpg#0	A man is alighting from the Red bus.
+bus5.jpg#1	The cars are lined up near the traffic signal near the bus stop.
+bus5.jpg#2	The bus stop has the shade of a huge green tree.
+bus6.jpg#0	The bus is of red and white colours.
+bus6.jpg#1	People have crowded near the Bus.
+bus6.jpg#2	The bus is packed in front of Huge grey building.
+bus7.jpg#0	The bus at the bus stop is of the route number H8 and bus number 6373.
+bus7.jpg#1	A person in the bus stop is carrying an umbrella.
+bus7.jpg#2	Two people are sitting in the bus stop.
+bus8.jpg#0	Two people are alighting the red bus numbered 48.
+bus8.jpg#1	Few people are moving away from the bus.
+bus8.jpg#2	There is a white car beside the red bus.
+bus9.jpg#0	The red bus name is Victoria and it’s number is 38.
+bus9.jpg#1	The red bus is on a narrow road.
+bus9.jpg#2	There are large number of people standing beside the red bus.
+bus10.jpg#0	The red bus is parked at the bus stop.
+bus10.jpg#1	Large number of people are trying to get into the bus.
+bus10.jpg#2	Bus is on a three lane road.
+bus11.jpg#0	The double decker bus is red in colour and numbered 76.
+bus11.jpg#1	Three people are getting into the bus.
+bus11.jpg#2	People are sitting on the bench at the bus stop.
+bus12.jpg#0	Bus has stopped to allow the passenger to get into the bus.
+bus12.jpg#1	One person is trying to get into the bus.
+bus12.jpg#2	The person in the bus stop is wearing a black long coat and grey hat.
+bus13.jpg#0	A white bus is parked in the bus stop.
+bus13.jpg#1	The parking lights of the bus are on.
+bus13.jpg#2	A man in brown coat is standing in front of the bus.
+bus14.jpg#0	Two buses are standing one behind the other.
+bus14.jpg#1	People are seen entering the bus.
+bus14.jpg#2	The driver in the bus is wearing a red dress and blue cap.
+bus15.jpg#0	The bus has stopped to allow the passengers in.
+bus15.jpg#1	People are entering the bus from two entrances.
+bus15.jpg#2	people have to climb a small step to enter the bus.
+bus16.jpg#0	The red bus is parked at the bus stop.
+bus16.jpg#1	People are walking on the two pavements on either side of the road.
+bus16.jpg#2	There is a blue coloured bridge behind the bus.
+bus17.jpg#0	A red bus is parked near the bus stop.
+bus17.jpg#1	Passengers are entering the bus from the single entrance.
+bus17.jpg#2	A passenger at the bus stop in red coat is talking on a mobile phone.
+bus18.jpg#0	A passenger is entering the bus with a grey suitcase.
+bus18.jpg#1	The next passenger is waiting to enter the bus with Green trolley bag.
+bus18.jpg#2	The bus has a huge clear front glass.
+bus19.jpg#0	The red bus is parked near the stop for passengers to enter the bus.
+bus19.jpg#1	Few passengers have got into the bus.
+bus19.jpg#2	Few are waiting to get into the bus.
+bus20.jpg#0	The red bus is parked at the bus stop.
+bus20.jpg#1	People are walking on the two pavements on either side of the road.
+bus20.jpg#2	There is a blue coloured bridge behind the bus.
+bus21.jpg#0	A Red bus is parked in the bus stop.
+bus21.jpg#1	A man in Black suit is getting into the bus.
+bus21.jpg#2	A lady is waiting behind to get into the bus.
+bus22.jpg#0	Red Bus has stopped in the bus stop.
+bus22.jpg#1	Big crowd of people are getting into the bus.
+bus22.jpg#2	A police man is standing behind the crowd.
+bus23.jpg#0	A bus is parked near the bus stop.
+bus23.jpg#1	Passengers are getting into the bus.
+bus23.jpg#2	The bus shelter is brown in colour.
+bus24.jpg#0	A double decker bus is parked in front of the bus stop.
+bus24.jpg#1	It is a crowded street with lot of people and cars.
+bus24.jpg#2	Huge buildings are on either side of the road.
+bus25.jpg#0	A double decker bus is parked in bus stop.
+bus25.jpg#1	The pavement of the bus stop is laid with stone cladding.
+bus25.jpg#2	There is a man with black coat in the bus stop.
+bus26.jpg#0	People are getting into the bus parked in front of bus stop.
+bus26.jpg#1	A lady in grey hair and white coat is in the queue to get into the bus.
+bus26.jpg#2	The bus stop is painted in cream colour and has a glass shelter.
+bus27.jpg#0	A huge multicolour bus is parked in front of the bus stop.
+bus27.jpg#1	A huge crowd of people are getting into the bus.
+bus27.jpg#2	A small girl in multicolour pant and blue jacket is waiting to get into bus.
+bus28.jpg#0	A man in white coat is getting into the bus.
+bus28.jpg#1	A passenger has a foldable trolley to carry into the bus.
+bus28.jpg#2	Huge buildings are seen in front of the bus.
+bus29.jpg#0	A man and a boy are moving away from the red bus.
+bus29.jpg#1	People are getting into the red bus parked in front of the bus stop.
+bus29.jpg#2	Cars are parked on either side of the road.
+bus30.jpg#0	A Red bus is parked in front of the bus stop.
+bus30.jpg#1	A person with umbrella is walking on the footpath near the bus.
+bus30.jpg#2	A lady is moving towards the bus and a man away from the bus.
+chem1.jpg#0	The name of the pharmacy is Numark.
+chem1.jpg#1	The pharmacy has glass door and glass front wall.
+chem1.jpg#2	A lot of product advertisements are pasted on the glass surfaces.
+chem2.jpg#0	The name of the pharmacy is Clarks.
+chem2.jpg#1	The pharmacy claims to provide NHS services.
+chem2.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem3.jpg#0	The name of the Pharma is Globe.
+chem3.jpg#1	The pharmacy claims to provide NHS services.
+chem3.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem4.jpg#0	The name of the Pharma is Warburtons.
+chem4.jpg#1	The pharmacy provides Free prescription, collection and delivery. 
+chem4.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem5.jpg#0	The name of the Pharma is Kansas.
+chem5.jpg#1	The pharmacy claims to provide NHS services.
+chem5.jpg#2	A man in Blue suit is seen standing in front of the pharmacy.
+chem6.jpg#0	The name of the Pharma is Vision.
+chem6.jpg#1	The pharmacy claims to provide NHS services.
+chem6.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem7.jpg#0	The name of the Pharma is Rathmines.
+chem7.jpg#1	There is a board outsides the store.
+chem7.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem8.jpg#0	The name of the Pharma is Rathmines.
+chem8.jpg#1	There is discount offers displayed on the glass panes of the pharmacy.
+chem8.jpg#2	The glass door of pharmacy has posters of drugs advertisements.
+chem9.jpg#0	The name of the Pharma is McCabes.
+chem9.jpg#1	There are many display boards inside the pharmacy.
+chem9.jpg#2	People are checking the counters inside the pharmacy.
+chem10.jpg#0	There is discount offers displayed on the glass panes of the pharmacy. 
+chem10.jpg#1	There are many display boards  inside the pharmacy.
+chem10.jpg#2	Hot water bags are displayed inside the pharmacy.
+chem11.jpg#0	The Pharma timings are displayed outside the store.
+chem11.jpg#1	There are many display boards  inside the pharmacy.
+chem11.jpg#2	The pharmacy has a lot of drugs stored in racks.
+chem12.jpg#0	The pharmacy claims to be a late night pharmacy.
+chem12.jpg#1	The Pharma has many advertisements for diabetic drugs.
+chem12.jpg#2	A person is checking the drug counters inside the pharmacy.
+chem13.jpg#0	The name of the Pharma is Boots.
+chem13.jpg#1	The pharmacy has a lot of drugs stored in racks.
+chem13.jpg#2	Products under great value are displayed in racks inside the pharmacy.
+chem14.jpg#0	A board at the pharmacy entrance has details of product variants available.
+chem14.jpg#1	The glass doors of the pharmacy have metal handles.
+chem14.jpg#2	Offer to get double points on purchase of pharmacy products is displayed.
+chem15.jpg#0	The name of the Pharma is Browns.
+chem15.jpg#1	The website details of the pharmacy is displayed.
+chem15.jpg#2	The pharmacy has a lot of products stored in racks.
+chem16.jpg#0	The pharmacy claims to provide NHS services.
+chem16.jpg#1	The pharmacy has a lot of products stored in racks.
+chem16.jpg#2	The glass doors of the pharmacy have grey coloured frames.
+chem17.jpg#0	The name of the store is Douglas Road Pharmacy.
+chem17.jpg#1	The pharmacy has many products from Fleming’s brand.
+chem17.jpg#2	People are checking the counters inside the pharmacy.
+chem18.jpg#0	The name of the store is Douglas Road Pharmacy.
+chem18.jpg#1	There are many display boards  inside the pharmacy.
+chem18.jpg#2	The pharmacy has many products from Fleming’s brand.
+chem19.jpg#0	A person is coming out of the pharmacy.
+chem19.jpg#1	There are three cycles parked outside the pharmacy.
+chem19.jpg#2	The pharmacy has a lot of products stored in racks.
+chem20.jpg#0	The name of the Pharma is AR Chemist.
+chem20.jpg#1	The pharmacy claims to provide NHS services.
+chem20.jpg#2	The pharmacy has waiting area for the customers.
+chem21.jpg#0	The Pharma entrance is lit up.
+chem21.jpg#1	There are many product details displayed on the outside of the pharmacy.
+chem21.jpg#2	The pharmacy has a lot of products stored in racks.
+chem22.jpg#0	The name of the Pharma is Macnamara.
+chem22.jpg#1	The Pharma is decorated for Xmas.
+chem22.jpg#2	There are many decorated Christmas trees inside the pharmacy.
+chem23.jpg#0	The name of the Pharma is Taylors.
+chem23.jpg#1	Pharmacy has boards suggesting to stay warm in winter.
+chem23.jpg#2	Christmas decorations adorn the whole pharmacy.
+chem24.jpg#0	The name of the Pharma is Murrays.
+chem24.jpg#1	The pharmacy offers 10% discount for students and 60’s & over.
+chem24.jpg#2	Pharma offers the option to leave the prescription while the customer shops.
+chem25.jpg#0	The name of the Pharma is Asian Chemist.
+chem25.jpg#1	The pharmacy has a lot of products stored in racks.
+chem25.jpg#2	It is a Day and Night Pharma.
+chem26.jpg#0	The Pharma offers Diabetes and blood sugar check up.
+chem26.jpg#1	There is a big display screen inside the pharma.
+chem26.jpg#2	The pharmacy offers upto 50% off on selected fragrances.
+chem27.jpg#0	The Pharmacy offers 24 hours service.
+chem27.jpg#1	The products in the pharma include brand Givenchy.
+chem27.jpg#2	The pharmacy also offers Western Union money transfer.
+chem28.jpg#0	The pharmacy claims to provide NHS services.
+chem28.jpg#1	There are many display boards outside the pharmacy.
+chem28.jpg#2	The pharmacy has a lot of products stored in racks.
+chem29.jpg#0	People are checking the counters inside the pharmacy.
+chem29.jpg#1	The pharmacy has chairs and stools inside.
+chem29.jpg#2	The pharmacy is grey in colour
+chem30.jpg#0	The name of the Pharma is Melling.
+chem30.jpg#1	The pharmacy claims to provide NHS services.
+chem30.jpg#2	The pharmacy has a lot of products stored in racks.
+church1.jpg#0	The church is on the other side of green lawn.
+church1.jpg#1	There is a huge dried tree beside the church.
+church1.jpg#2	A huge planter with red and white flowers is in front of the church.
+church2.jpg#0	A huge crowd of people have assembled in front of the church.
+church2.jpg#1	There is a black car parked in front of the church.
+church2.jpg#2	There are two cranes behind the church.
+church3.jpg#0	There is a huge shrub with yellow flowers beside the church.
+church3.jpg#1	There church entrance has few steps.
+church3.jpg#2	The main entrance door of the church is open and side entrance is closed.
+church4.jpg#0	The church is huge.
+church4.jpg#1	There are dried trees all around the church.
+church4.jpg#2	There is a grilled compound around the church.
+church5.jpg#0	Cars are parked inside the church compound.
+church5.jpg#1	A motorcycle is parked outside the church compound.
+church5.jpg#2	People are walking outside the church compound.
+church6.jpg#0	The church has shrubs in the front and trees behind.
+church6.jpg#1	Two persons are entering the church.
+church6.jpg#2	A man, woman and a child are leaving the church.
+church7.jpg#0	The church is in front of an old brown structure.
+church7.jpg#1	There are trees around the church.
+church7.jpg#2	People are walking beside the church.
+church8.jpg#0	The church has many steps at the entrance.
+church8.jpg#1	There are two statues on either side of the church.
+church8.jpg#2	There are huge trees behind the church.
+church9.jpg#0	There is a huge quadrangle around the church.
+church9.jpg#1	There are trees all around the church.
+church9.jpg#2	There is a car parked behind the church.
+church10.jpg#0	There are three wooden door entrances for the church.
+church10.jpg#1	A man in white robe is talking to people in front of the church.
+church10.jpg#2	A group of people with musical instruments are sitting outside the church.
+church11.jpg#0	The church is majorly grey in colour.
+church11.jpg#1	There are planters with green plants on either side of the church entrance.
+church11.jpg#2	There are two light poles on either side of the church.
+church12.jpg#0	The church has stone cladding all over.
+church12.jpg#1	There is white arch at the entrance of the church.
+church12.jpg#2	There is a red box with stand in front of the church.
+church13.jpg#0	The church has huge projected structure above the entrance.
+church13.jpg#1	A person is walking away from the church.
+church13.jpg#2	Two persons are taking photographs of the church.
+church14.jpg#0	Cars are parked inside and outside the church compound.
+church14.jpg#1	A person with blue jacket is walking outside the church.
+church14.jpg#2	There is a bicycle and a motorbike outside the church.
+church15.jpg#0	Cars are parked in front of the church.
+church15.jpg#1	Dark clouds are seen behind the church.
+church15.jpg#2	A person in blue dress is walking towards the church.
+church16.jpg#0	A huge tree is seen in front of the church.
+church16.jpg#1	Cars are parked inside the church compound.
+church16.jpg#2	A man is moving out of the church premises.
+church17.jpg#0	The church has a green tomb over it.
+church17.jpg#1	There are multiple cars parked in front of the church.
+church17.jpg#2	There are few cars moving on the pathway outside the church.
+church18.jpg#0	The church is huge and has stone cladding.
+church18.jpg#1	There is a traffic signal pole in front of the church and the signal is red.
+church18.jpg#2	A bus and a car are moving beside the church.
+church19.jpg#0	There is a bridge in front of the church.
+church19.jpg#1	A car is moving away from the church on the bridge.
+church19.jpg#2	A person on motorcycle is moving towards the church on the bridge.
+church20.jpg#0	The church has green lawn in front of the entrance.
+church20.jpg#1	There is a stone cladded pathway beside the church.
+church20.jpg#2	There are row houses beside the church.
+church21.jpg#0	Number of cars are parked outside the church.
+church21.jpg#1	A person in grey suit is moving towards the church.
+church21.jpg#2	multiple groups of people are standing in front of the church. 
+church22.jpg#0	The church has an orange coloured arch at the entrance.
+church22.jpg#1	Many people are entering the church.
+church22.jpg#2	Jesus Christ idol on the cross is put above the church entrance.
+church23.jpg#0	The church has three arches at the entrance.
+church23.jpg#1	Large number of people are entering the church.
+church23.jpg#2	The entrance of the church is reached via multiple steps with metal railings.
+church24.jpg#0	The old church has three bells at the top.
+church24.jpg#1	A person with camera is moving towards the church.
+church24.jpg#2	There are tables and chairs occupied by people beside the church.
+church25.jpg#0	The church is in a crowded place.
+church25.jpg#1	There are big trees around the church.
+church25.jpg#2	Multiple groups of people are standing in front of the church.
+church26.jpg#0	The church has three entrances with red doors.
+church26.jpg#1	There are huge planters with flowering plants in front of the church.
+church26.jpg#2	There is a huge bell on top of the church. 
+church27.jpg#0	The church is a tall grey structure.
+church27.jpg#1	The entrance to the church is a red door.
+church27.jpg#2	There is a clock above the church entrance door.
+church28.jpg#0	The church has a green coloured tomb
+church28.jpg#1	The two slant roofs of the church are yellow and green coloured.
+church28.jpg#2	People are moving around in front of the church.
+church29.jpg#0	The church is painted white.
+church29.jpg#1	A man with the backpack is moving away from the church.
+church29.jpg#2	The entrance to the church is through a red door.
+church30.jpg#0	The church is situated on the stone cladded pedestal.
+church30.jpg#1	There is a small stretch of lawn around the church.
+church30.jpg#2	There is a stone cladded pathway between the church and the lawn.
+Construction1.jpg#0	Construction work is happening on the road.
+Construction1.jpg#1	One of the workers is directing the traffic near the construction site.
+Construction1.jpg#2	A petrol bunk is on the other side of construction work.
+Construction2.jpg#0	The construction area is wet.
+Construction2.jpg#1	There are workers at the construction site using shovel to set the mud.
+Construction2.jpg#2	A worker at the construction site is using a machine to flatten the mud.
+Construction3.jpg#0	A board with road closed written on it is used near road repair work.
+Construction3.jpg#1	A board with Diversion written on it with symbol also on it is seen.
+Construction3.jpg#2	Few people are sitting in front of the stores in the pathway.
+Construction4.jpg#0	Road construction work portion is cordoned with barricades.
+Construction4.jpg#1	Work in progress symbolic board are kept on the road.
+Construction4.jpg#2	People are walking on the road not under construction.
+Construction5.jpg#0	The cranes are used for road construction work.
+Construction5.jpg#1	There are relevant boards like STOP on the road.
+Construction5.jpg#2	Workers with helmet are performing the construction work.
+Construction6.jpg#0	Cranes are parked on the road for the construction work.
+Construction6.jpg#1	The Road ahead closed board is seen on the road.
+Construction6.jpg#2	The diversion board with symbol is seen on the road.
+Construction7.jpg#0	A lot of traffic cones are placed on the construction area.
+Construction7.jpg#1	Direction indicator boards are seen on the road.
+Construction7.jpg#2	Many other traffic signal indicating boards are seen on the road.
+Construction8.jpg#0	A lot of traffic cones and barricades are seen at the construction site.
+Construction8.jpg#1	A bus is parked on the road near the construction area.
+Construction8.jpg#2	Cars are moving on the other side of the road.
+Construction9.jpg#0	The road under construction is condoned by barricades. 
+Construction9.jpg#1	Footway closed board is seen on the barricades.
+Construction9.jpg#2	Pedestrians boards with direction symbol is in the construction site.
+Construction10.jpg#0	A huge barricade is put on the construction side of the road.
+Construction10.jpg#1	Multiple traffic instruction boards are put on the barricade.
+Construction10.jpg#2	A person is moving away from the construction part of the road.
+Construction11.jpg#0	Road closed board is seen at the barricade in construction site.
+Construction11.jpg#1	Large number of cars are parked on the other side of the closed road.
+Construction11.jpg#2	Diversion board with symbol is put in front of the barricade.
+Construction12.jpg#0	The road under construction is blocked with traffic monitoring boards. 
+Construction12.jpg#1	A large number of barricades are kept on the road.
+Construction12.jpg#2	People are moving on the not under construction road.
+Construction13.jpg#0	barricades are put in front of the shops. 
+Construction13.jpg#1	Construction workers are working at the construction site.
+Construction13.jpg#2	Cars are moving on the not under construction road.
+Construction14.jpg#0	The debris of road construction is seen on the road.
+Construction14.jpg#1	Construction workers are busy working on the road.
+Construction14.jpg#2	Cars are parked on the road not under construction.
+Construction15.jpg#0	Traffic cones are used to condone the construction site.
+Construction15.jpg#1	Construction worker is seen drilling the road.
+Construction15.jpg#2	Construction worker is wearing a fluorescent green coloured jacket.
+Construction16.jpg#0	Barricades are put around the road construction site.
+Construction16.jpg#1	Road closed board is placed in front of the barricades.
+Construction16.jpg#2	Men at work symbol board is placed in front of the barricade.
+Construction17.jpg#0	Barricades are seen at the dug up portion of the construction area.
+Construction17.jpg#1	people are walking on the footpath.
+Construction17.jpg#2	A dried tree is seen on the walkway.
+Construction18.jpg#0	Barricades are seen at the dug up portion of the construction area.
+Construction18.jpg#1	Roads at the construction site are majorly empty.
+Construction18.jpg#2	Few people are seen moving around the construction site.
+Construction19.jpg#0	Blue coloured barricades are seen near the road construction area.
+Construction19.jpg#1	Cars are parked in front of the barricaded area.
+Construction19.jpg#2	Road closed and Diversion signal boards are on the road.
+Construction20.jpg#0	Green coloured barricades are put around the construction area.
+Construction20.jpg#1	Construction workers are seen with green jackets.
+Construction20.jpg#2	A car is passing by the construction area.
+Construction21.jpg#0	Barricades are put around the construction material.
+Construction21.jpg#1	Pedestrian movement direction boards are seen.
+Construction21.jpg#2	People are seen moving in the allowed area.
+Construction22.jpg#0	The construction material is seen on the road.
+Construction22.jpg#1	A traffic signal pole with red light on is seen.
+Construction22.jpg#2	A crane is seen on the road under construction.
+Construction23.jpg#0	There are Road closed boards put at the construction site.
+Construction23.jpg#1	Red coloured barricades are seen on the road.
+Construction23.jpg#2	Two traffic signals with green light on are seen.
+Construction24.jpg#0	Traffic cones are seen on the road under construction.
+Construction24.jpg#1	Red traffic light is on near the construction area.
+Construction24.jpg#2	Cranes and other construction needed vehicles are seen on the road.
+Construction25.jpg#0	A pillar is seen adjacent to barricade in the construction area. 
+Construction25.jpg#1	Traffic cones are seen on the footpath.
+Construction25.jpg#2	A red barricade with foot path closed board is seen on the footpath.
+Construction26.jpg#0	White coloured barricades are seen at the construction area.
+Construction26.jpg#1	Pedestrian movement direction board is seen near the barricade.
+Construction26.jpg#2	Dried yellow leaves are seen on the road.
+Construction27.jpg#0	Pedestrian movement direction board is seen at construction site.
+Construction27.jpg#1	Red coloured barricade is seen on the road.
+Construction27.jpg#2	Construction workers with required vehicles are seen in the spot.
+Construction28.jpg#0	Traffic cones are used to condone the construction site.
+Construction28.jpg#1	Red coloured barricades are seen at the construction site.
+Construction28.jpg#2	Board saying Sidewalk closed ahead with symbol is on the barricade.
+Construction29.jpg#0	Cars are parked on either side of the construction site. 
+Construction29.jpg#1	Road closed and work in progress boards are seen on the road.
+Construction29.jpg#2	Red coloured barricades are seen on the road.
+Construction30.jpg#0	Traffic cones are placed alongside the construction area 
+Construction30.jpg#1	Road closed and CCTV in operation boards are seen on the road
+Construction30.jpg#2	A person is seen walking on the footpath.
+door1.jpg#0	The black door has golden handles.
+door1.jpg#1	See through glasses are seen on either side of the door.
+door1.jpg#2	A foot mat is placed in front of the door.
+door2.jpg#0	The door is dark grey in colour.
+door2.jpg#1	There is a silver handle and gold coloured letter inlet on the door.
+door2.jpg#2	Two planters with plant are seen on either side of the door.
+door3.jpg#0	The black door seen has golden coloured handles and letter inlet.
+door3.jpg#1	The door number is 38.
+door3.jpg#2	Two planters with plant are seen on either side of the door.
+door4.jpg#0	The Green door seen has golden coloured handles and letter inlet.
+door4.jpg#1	The door number is 43.
+door4.jpg#2	White pillars are seen on either side of the door.
+door5.jpg#0	The black door seen has golden coloured handles and letter inlet.
+door5.jpg#1	Silver coloured lights are seen on either side of the door.
+door5.jpg#2	There is white painted wall around the door.
+door6.jpg#0	The black door seen has golden coloured handles and letter inlet.
+door6.jpg#1	Bricked wall is seen surrounding the door.
+door6.jpg#2	Metal decorative lamps are seen on either side of the door.
+door7.jpg#0	The black door seen has silver coloured handles and letter inlet.
+door7.jpg#1	The wall around the door is white in colour.
+door7.jpg#2	Black railings are seen on either side of the door.
+door8.jpg#0	The black door seen has steel handles and letter inlet.
+door8.jpg#1	There is glass and steel grill on either side of the door.
+door8.jpg#2	There is a letter box on the right side of the door.
+door9.jpg#0	The door has a long steel handle.
+door9.jpg#1	Two planters with plant are seen on either side of the door.
+door9.jpg#2	Decorative lamps are seen on either side of the door.
+door10.jpg#0	The door has a long steel handle.
+door10.jpg#1	Two planters with plant are seen on either side of the door.
+door10.jpg#2	Decorative lamp is seen on the right side of the door.
+door11.jpg#0	The door is dark grey in colour.
+door11.jpg#1	Glasses with grill are seen on either side of the door.
+door11.jpg#2	Glass arch with grill are seen above the door.
+door12.jpg#0	The grey door seen has steel handles and letter inlet.
+door12.jpg#1	Two plants are seen on either side of the door.
+door12.jpg#2	Bricked wall is seen surrounding the door.
+door13.jpg#0	The pink door seen has golden coloured handles and letter inlet.
+door13.jpg#1	Two white pillars are seen on either side of the door.
+door13.jpg#2	A plant is seen on the right side of the door.
+door14.jpg#0	The grey door seen has golden/silver coloured handles and letter inlet.
+door14.jpg#1	Two white pillars are seen on either side of the door.
+door14.jpg#2	Tall plants are seen on either side of the door.
+door15.jpg#0	The grey door seen has steel handles and letter inlet.
+door15.jpg#1	Bricked pillars are seen on either side of the door.
+door15.jpg#2	A brown footmat is placed in front of the door.
+door16.jpg#0	The grey door has steel handle and letter inlet.
+door16.jpg#1	A hanging potter with plant is seen on the left side of the door.
+door16.jpg#2	Bricked wall is seen surrounding the door.
+door17.jpg#0	The grey door seen has steel handles and letter inlet.
+door17.jpg#1	Door number is 9.
+door17.jpg#2	Glass panes are seen on either side of the door.
+door18.jpg#0	The blue door seen has steel handles and letter inlet.
+door18.jpg#1	Glass panes with grill are seen on either side of the door.
+door18.jpg#2	The walls around the door are white in colour.
+door19.jpg#0	The grey door seen has steel handles and letter inlet.
+door19.jpg#1	A decorative item is hung on the door.
+door19.jpg#2	Bricked wall is seen on the left side of the door.
+door20.jpg#0	The green door seen has golden coloured handles and letter inlet.
+door20.jpg#1	A blue planter with green plant is on the right side of the door.
+door20.jpg#2	Tall green plant is seen on the right side of the door.
+door21.jpg#0	The blue door has golden/silver coloured handles and letter inlet.
+door21.jpg#1	Glass panes with grill are seen on either side of the door.
+door21.jpg#2	Glass arch with grill is seen above the door.
+door22.jpg#0	The red door has golden/silver coloured handles and letter inlet.
+door22.jpg#1	Glass panes with grill are seen on either side of the door.
+door22.jpg#2	Glass arch with grill is seen above the door.
+door23.jpg#0	The blue door has golden coloured handles and letter inlet.
+door23.jpg#1	Two white pillars are seen on either side of the door.
+door23.jpg#2	Glass arch with grill is seen above the door.
+door24.jpg#0	The red door has golden coloured handles.
+door24.jpg#1	Door number is 52.
+door24.jpg#2	Bricked wall is seen surrounding the door.
+door25.jpg#0	The Brown door has golden coloured handles and letter inlet.
+door25.jpg#1	Glass panes with grill are seen on either side of the door.
+door25.jpg#2	Decorative lamp is seen on the right side of the door.
+door26.jpg#0	The door and handles are silver coloured.
+door26.jpg#1	Decorative lamp is seen on the left side of the door.
+door26.jpg#2	Two white pillars are seen on either side of the door.
+door27.jpg#0	The Black door has golden coloured handles and letter inlet.
+door27.jpg#1	Glass panes with designs are seen on either side of the door knock handle.
+door27.jpg#2	Door mat with Merry Christmas written on it is seen at the door.
+door28.jpg#0	The grey door seen has steel handles and letter inlet.
+door28.jpg#1	A brown planter with flowery plant is on the left of the door.
+door28.jpg#2	Door number is 54.
+door29.jpg#0	The grey door has steel handles and keys are seen hanging.
+door29.jpg#1	Glass pane with designs is seen on the top portion of the door.
+door29.jpg#2	A letter box is on the right side of the door.
+door30.jpg#0	The Brown door has golden coloured handles and letter inlet.
+door30.jpg#1	Glass panes with designs are seen on either side of the door.
+door30.jpg#2	White arch is seen around the door.
+eurofifty_1.jpg#0	This is a 50 Euro currency note.
+eurofifty_1.jpg#1	This note has number 50 written in many positions.
+eurofifty_1.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_2.jpg#0	This is a 50 Euro currency note and has word EURO written on it.
+eurofifty_2.jpg#1	This note has number 50 written in many positions.
+eurofifty_2.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_3.jpg#0	This is a 50 Euro currency note and is majorly orange and brown coloured.
+eurofifty_3.jpg#1	This note has number 50 written in many positions.
+eurofifty_3.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_4.jpg#0	This is a 50 Euro currency note and has number 50 written in green.
+eurofifty_4.jpg#1	This note has number 50 written in many positions.
+eurofifty_4.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_5.jpg#0	This is a 50 Euro currency note and has pictures of star in multiple colours.
+eurofifty_5.jpg#1	This note has number 50 written in many positions.
+eurofifty_5.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_6.jpg#0	This is a 50 Euro currency note and has small lines on it.
+eurofifty_6.jpg#1	This note has number 50 written in many positions.
+eurofifty_6.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_7.jpg#0	This is 50 Euro currency note and has number 50 written in brown clolour.
+eurofifty_7.jpg#1	This note has number 50 written in many positions.
+eurofifty_7.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_8.jpg#0	This is a 50 Euro currency note and has tower figures in brown and orange.
+eurofifty_8.jpg#1	This note has number 50 written in many positions.
+eurofifty_8.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_9.jpg#0	This is a 50 Euro currency note and has a signature below the flag picture.
+eurofifty_9.jpg#1	This note has number 50 written in many positions.
+eurofifty_9.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_10.jpg#0	This is a 50 Euro currency note and has EBPO written on it.
+eurofifty_10.jpg#1	This note has number 50 written in many positions.
+eurofifty_10.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_11.jpg#0	This is a 50 Euro currency note held by some person.
+eurofifty_11.jpg#1	This note has number 50 written in many positions.
+eurofifty_11.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_12.jpg#0	This is a 50 Euro currency note and it has euro symbol on it.
+eurofifty_12.jpg#1	This note has number 50 written in many positions.
+eurofifty_12.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_13.jpg#0	This is a 50 Euro currency note with number 50 written in brown and orange.
+eurofifty_13.jpg#1	This note has number 50 written in many positions.
+eurofifty_13.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_14.jpg#0	This is 50 Euro currency note and has a signature beside the flag picture.
+eurofifty_14.jpg#1	This note has number 50 written in many positions.
+eurofifty_14.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_15.jpg#0	This is a 50 Euro currency note and the printing year is 2001.
+eurofifty_15.jpg#1	This note has number 50 written in many positions.
+eurofifty_15.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_16.jpg#0	This is a 50 Euro currency note with the euro symbol at the right hand corner.
+eurofifty_16.jpg#1	This note has number 50 written in many positions.
+eurofifty_16.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_17.jpg#0	This is a 50 Euro currency note and the printing year is 2002.
+eurofifty_17.jpg#1	This note has number 50 written in many positions.
+eurofifty_17.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_18.jpg#0	This is a 50 Euro currency note and has letters EBPO written on it.
+eurofifty_18.jpg#1	This note has number 50 written in many positions.
+eurofifty_18.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_19.jpg#0	This is a 50 Euro currency note placed on a person’s palm.
+eurofifty_19.jpg#1	This note has number 50 written in many positions.
+eurofifty_19.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_20.jpg#0	This is a 50 Euro currency note with number 50 written in brown.
+eurofifty_20.jpg#1	This note has number 50 written in many positions.
+eurofifty_20.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_21.jpg#0	This is a 50 Euro currency note.
+eurofifty_21.jpg#1	This note has sentence Leftover currency.com written on it.
+eurofifty_21.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_22.jpg#0	This is a 50 Euro currency note.
+eurofifty_22.jpg#1	This note has number 50 written in many positions.
+eurofifty_22.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_23.jpg#0	This is a 50 Euro currency note with number 50 written in green.
+eurofifty_23.jpg#1	This note has number 50 written in many positions.
+eurofifty_23.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_24.jpg#0	This is a 50 Euro currency note with star pictures in multiple colours.
+eurofifty_24.jpg#1	This note has number 50 written in many positions.
+eurofifty_24.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_25.jpg#0	This is a 50 Euro currency note printed in the year 2002.
+eurofifty_25.jpg#1	This note has number 50 written in many positions.
+eurofifty_25.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_26.jpg#0	This is a 50 Euro currency note with small lines on either side.
+eurofifty_26.jpg#1	This note has number 50 written in many positions.
+eurofifty_26.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_27.jpg#0	This is a 50 Euro currency note with number 50 written in brown.
+eurofifty_27.jpg#1	This note has number 50 written in many positions.
+eurofifty_27.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_28.jpg#0	This is a 50 Euro currency note with number 50 written in brown and orange.
+eurofifty_28.jpg#1	This note has number 50 written in many positions.
+eurofifty_28.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_29.jpg#0	This is a 50 Euro currency note with EURO written on it.
+eurofifty_29.jpg#1	This note has number 50 written in many positions.
+eurofifty_29.jpg#2	This note has the picture of Wallet flag on it.
+eurofifty_30.jpg#0	This is a 50 Euro currency note with EBPO written on it.
+eurofifty_30.jpg#1	This note has number 50 written in many positions.
+eurofifty_30.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_1.jpg#0	This is a 5 Euro currency note with EURO written on it.
+eurofive_1.jpg#1	This note has number 5 written on it.
+eurofive_1.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_2.jpg#0	This is a 5 Euro currency note with EBPO written on it.
+eurofive_2.jpg#1	This note has number 5 written on it.
+eurofive_2.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_3.jpg#0	This is a 5 Euro currency note.
+eurofive_3.jpg#1	This note has number 5 written on it.
+eurofive_3.jpg#2	This note has the picture of Wallet flag on it with a signature below.
+eurofive_4.jpg#0	This is a 5 Euro currency note placed on a palm.
+eurofive_4.jpg#1	This note has number 5 written on it.
+eurofive_4.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_5.jpg#0	This is a 5 Euro currency note.
+eurofive_5.jpg#1	This note has number 5 written on it in green colour.
+eurofive_5.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_6.jpg#0	This is a 5 Euro currency note.
+eurofive_6.jpg#1	This note has number 5 written on it.
+eurofive_6.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_7.jpg#0	This is a 5 Euro currency note with EURO written on it.
+eurofive_7.jpg#1	This note has number 5 written on it in Grey colour.
+eurofive_7.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_8.jpg#0	This is a 5 Euro currency note with small lines on either side.
+eurofive_8.jpg#1	This note has number 5 written on it.
+eurofive_8.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_9.jpg#0	This is a 5 Euro currency note with EURO written on it.
+eurofive_9.jpg#1	This note has number 5 written on it.
+eurofive_9.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_10.jpg#0	This is a 5 Euro currency note held by some person.
+eurofive_10.jpg#1	This note has number 5 written on it.
+eurofive_10.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_11.jpg#0	This is a 5 Euro currency note with small lines in grey.
+eurofive_11.jpg#1	This note has number 5 written on it.
+eurofive_11.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_12.jpg#0	This is a 5 Euro currency note.
+eurofive_12.jpg#1	This note has number 5 written on it.
+eurofive_12.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_13.jpg#0	This is a 5 Euro currency note with number green in green colour.
+eurofive_13.jpg#1	This note has number 5 written on it.
+eurofive_13.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_14.jpg#0	This is a 5 Euro currency note with stars in yellow colour.
+eurofive_14.jpg#1	This note has number 5 written on it.
+eurofive_14.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_15.jpg#0	This is a 5 Euro currency note.
+eurofive_15.jpg#1	This note has number 5 written on it.
+eurofive_15.jpg#2	This note has the picture of Wallet flag on it and a signature below the flag.
+eurofive_16.jpg#0	This is a 5 Euro currency note placed on a brown background.
+eurofive_16.jpg#1	This note has number 5 written on it.
+eurofive_16.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_17.jpg#0	This is a 5 Euro currency note.
+eurofive_17.jpg#1	This note has number 5 written on it in dark grey.
+eurofive_17.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_18.jpg#0	This is a 5 Euro currency note held by some person.
+eurofive_18.jpg#1	This note has number 5 written on it.
+eurofive_18.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_19.jpg#0	This is a 5 Euro currency note.
+eurofive_19.jpg#1	This note has number 5 written on it.
+eurofive_19.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_20.jpg#0	This is a 5 Euro currency note.
+eurofive_20.jpg#1	This note has number 5 written on it.
+eurofive_20.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_21.jpg#0	This is a 5 Euro currency note.
+eurofive_21.jpg#1	This note has number 5 written on it.
+eurofive_21.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_22.jpg#0	This is a 5 Euro currency note.
+eurofive_22.jpg#1	This note has number 5 and leftover currency.com written on it.
+eurofive_22.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_23.jpg#0	This is a 5 Euro currency note.
+eurofive_23.jpg#1	This note has number 5 written on it.
+eurofive_23.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_24.jpg#0	This is a 5 Euro currency note.
+eurofive_24.jpg#1	This note has number 5 written on it.
+eurofive_24.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_25.jpg#0	This is a 5 Euro currency note of the year 2002.
+eurofive_25.jpg#1	This note has number 5 written on it.
+eurofive_25.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_26.jpg#0	This is a 5 Euro currency note with EURO written on it.
+eurofive_26.jpg#1	This note has number 5 written on it.
+eurofive_26.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_27.jpg#0	This is a 5 Euro currency note.
+eurofive_27.jpg#1	This note has number 5 written on it.
+eurofive_27.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_28.jpg#0	This is a 5 Euro currency note.
+eurofive_28.jpg#1	This note has number 5 written on it.
+eurofive_28.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_29.jpg#0	This is a 5 Euro currency note with EBPO written on it.
+eurofive_29.jpg#1	This note has number 5 written on it.
+eurofive_29.jpg#2	This note has the picture of Wallet flag on it.
+eurofive_30.jpg#0	This is a 5 Euro currency note.
+eurofive_30.jpg#1	This note has number 5 written on it.
+eurofive_30.jpg#2	This note has the picture of Wallet flag on it.
+euroten_1.jpg#0	ten euro currency note.
+euroten_1.jpg#1	currency note of ten euros.
+euroten_1.jpg#2	this note has a value of ten euros.
+euroten_2.jpg#0	ten euro currency note.
+euroten_2.jpg#1	currency note of ten euros.
+euroten_2.jpg#2	this note has a value of ten euros.
+euroten_3.jpg#0	ten euro currency note.
+euroten_3.jpg#1	currency note of ten euros.
+euroten_3.jpg#2	this note has a value of ten euros.
+euroten_4.jpg#0	ten euro currency note.
+euroten_4.jpg#1	currency note of ten euros.
+euroten_4.jpg#2	this note has a value of ten euros.
+euroten_5.jpg#0	ten euro currency note.
+euroten_5.jpg#1	currency note of ten euros.
+euroten_5.jpg#2	this note has a value of ten euros.
+euroten_6.jpg#0	ten euro currency note.		
+euroten_6.jpg#1	currency note of ten euros.		
+euroten_6.jpg#2	this note has a value of ten euros.
+euroten_7.jpg#0	ten euro currency note.	
+euroten_7.jpg#1	currency note of ten euros.		
+euroten_7.jpg#2	this note has a value of ten euros.
+euroten_8.jpg#0	ten euro currency note.		
+euroten_8.jpg#1	currency note of ten euros.		
+euroten_8.jpg#2	this note has a value of ten euros.	
+euroten_9.jpg#0	ten euro currency note.	
+euroten_9.jpg#1	currency note of ten euros.	
+euroten_9.jpg#2	this note has a value of ten euros.
+euroten_10.jpg#0	ten euro currency note.		
+euroten_10.jpg#1	currency note of ten euros.		
+euroten_10.jpg#2	this note has a value of ten euros.		
+euroten_11.jpg#0	ten euro currency note.		
+euroten_11.jpg#1	currency note of ten euros.		
+euroten_11.jpg#2	this note has a value of ten euros.
+euroten_12.jpg#0	ten euro currency note.
+euroten_12.jpg#1	currency note of ten euros.		
+euroten_12.jpg#2	this note has a value of ten euros.	
+euroten_13.jpg#0	ten euro currency note.		
+euroten_13.jpg#1	currency note of ten euros.		
+euroten_13.jpg#2	this note has a value of ten euros.		
+euroten_14.jpg#0	ten euro currency note.		
+euroten_14.jpg#1	currency note of ten euros.		
+euroten_14.jpg#2	this note has a value of ten euros.		
+euroten_15.jpg#0	ten euro currency note.		
+euroten_15.jpg#1	currency note of ten euros.		
+euroten_15.jpg#2	this note has a value of ten euros.		
+euroten_16.jpg#0	ten euro currency note.		
+euroten_16.jpg#1	currency note of ten euros.		
+euroten_16.jpg#2	this note has a value of ten euros.		
+euroten_17.jpg#0	ten euro currency note.		
+euroten_17.jpg#1	currency note of ten euros.		
+euroten_17.jpg#2	this note has a value of ten euros.		
+euroten_18.jpg#0	ten euro currency note.		
+euroten_18.jpg#1	currency note of ten euros.		
+euroten_18.jpg#2	this note has a value of ten euros.		
+euroten_19.jpg#0	ten euro currency note.		
+euroten_19.jpg#1	currency note of ten euros.		
+euroten_19.jpg#2	this note has a value of ten euros.		
+euroten_20.jpg#0	ten euro currency note.		
+euroten_20.jpg#1	currency note of ten euros.		
+euroten_20.jpg#2	this note has a value of ten euros.		
+euroten_21.jpg#0	ten euro currency note.		
+euroten_21.jpg#1	currency note of ten euros.		
+euroten_21.jpg#2	this note has a value of ten euros.		
+euroten_22.jpg#0	ten euro currency note.		
+euroten_22.jpg#1	currency note of ten euros.		
+euroten_22.jpg#2	this note has a value of ten euros.		
+euroten_23.jpg#0	ten euro currency note.		
+euroten_23.jpg#1	currency note of ten euros.		
+euroten_23.jpg#2	this note has a value of ten euros.		
+euroten_24.jpg#0	ten euro currency note.		
+euroten_24.jpg#1	currency note of ten euros.		
+euroten_24.jpg#2	this note has a value of ten euros.		
+euroten_25.jpg#0	ten euro currency note.		
+euroten_25.jpg#1	currency note of ten euros.		
+euroten_25.jpg#2	this note has a value of ten euros.		
+euroten_26.jpg#0	ten euro currency note.		
+euroten_26.jpg#1	currency note of ten euros.		
+euroten_26.jpg#2	this note has a value of ten euros.		
+euroten_27.jpg#0	ten euro currency note.		
+euroten_27.jpg#1	currency note of ten euros.		
+euroten_27.jpg#2	this note has a value of ten euros.		
+euroten_28.jpg#0	ten euro currency note.		
+euroten_28.jpg#1	currency note of ten euros.		
+euroten_28.jpg#2	this note has a value of ten euros.	
+euroten_29.jpg#0	ten euro currency note.		
+euroten_29.jpg#1	currency note of ten euros.		
+euroten_29.jpg#2	this note has a value of ten euros.		
+euroten_30.jpg#0	ten euro currency note.		
+euroten_30.jpg#1	currency note of ten euros.		
+euroten_30.jpg#2	this note has a value of ten euros.
+eurotwenty_1.jpg#0	twenty euro currency note.	
+eurotwenty_1.jpg#1	currency note of twenty euros.		
+eurotwenty_1.jpg#2	this note has a value of twenty euros.
+eurotwenty_2.jpg#0	twenty euro currency note.		
+eurotwenty_2.jpg#1	currency note of twenty euros.		
+eurotwenty_2.jpg#2	this note has a value of twenty euros.	
+eurotwenty_3.jpg#0	twenty euro currency note.		
+eurotwenty_3.jpg#1	currency note of twenty euros.		
+eurotwenty_3.jpg#2	this note has a value of twenty euros.
+eurotwenty_4.jpg#0	twenty euro currency note.	
+eurotwenty_4.jpg#1	currency note of twenty euros.		
+eurotwenty_4.jpg#2	this note has a value of twenty euros.
+eurotwenty_5.jpg#0	twenty euro currency note.		
+eurotwenty_5.jpg#1	currency note of twenty euros.		
+eurotwenty_5.jpg#2	this note has a value of twenty euros.	
+eurotwenty_6.jpg#0	twenty euro currency note.
+eurotwenty_6.jpg#1	currency note of twenty euros.
+eurotwenty_6.jpg#2	this note has a value of twenty euros.
+eurotwenty_7.jpg#0	twenty euro currency note.
+eurotwenty_7.jpg#1	currency note of twenty euros.
+eurotwenty_7.jpg#2	this note has a value of twenty euros.
+eurotwenty_8.jpg#0	twenty euro currency note.
+eurotwenty_8.jpg#1	currency note of twenty euros.
+eurotwenty_8.jpg#2	this note has a value of twenty euros.
+eurotwenty_9.jpg#0	twenty euro currency note.
+eurotwenty_9.jpg#1	currency note of twenty euros.
+eurotwenty_9.jpg#2	this note has a value of twenty euros.
+eurotwenty_10.jpg#0	twenty euro currency note.
+eurotwenty_10.jpg#1	currency note of twenty euros.
+eurotwenty_10.jpg#2	this note has a value of twenty euros.
+eurotwenty_11.jpg#0	twenty euro currency note.
+eurotwenty_11.jpg#1	currency note of twenty euros.
+eurotwenty_11.jpg#2	this note has a value of twenty euros.
+eurotwenty_12.jpg#0	twenty euro currency note.
+eurotwenty_12.jpg#1	currency note of twenty euros.
+eurotwenty_12.jpg#2	this note has a value of twenty euros.
+eurotwenty_13.jpg#0	twenty euro currency note.
+eurotwenty_13.jpg#1	currency note of twenty euros.
+eurotwenty_13.jpg#2	this note has a value of twenty euros.
+eurotwenty_14.jpg#0	twenty euro currency note.
+eurotwenty_14.jpg#1	currency note of twenty euros.
+eurotwenty_14.jpg#2	this note has a value of twenty euros.
+eurotwenty_15.jpg#0	twenty euro currency note.
+eurotwenty_15.jpg#1	currency note of twenty euros.
+eurotwenty_15.jpg#2	this note has a value of twenty euros.
+eurotwenty_16.jpg#0	twenty euro currency note.
+eurotwenty_16.jpg#1	currency note of twenty euros.
+eurotwenty_16.jpg#2	this note has a value of twenty euros.
+eurotwenty_17.jpg#0	twenty euro currency note.
+eurotwenty_17.jpg#1	currency note of twenty euros.
+eurotwenty_17.jpg#2	this note has a value of twenty euros.
+eurotwenty_18.jpg#0	twenty euro currency note.
+eurotwenty_18.jpg#1	currency note of twenty euros.
+eurotwenty_18.jpg#2	this note has a value of twenty euros.
+eurotwenty_19.jpg#0	twenty euro currency note.
+eurotwenty_19.jpg#1	currency note of twenty euros.
+eurotwenty_19.jpg#2	this note has a value of twenty euros.
+eurotwenty_20.jpg#0	twenty euro currency note.
+eurotwenty_20.jpg#1	currency note of twenty euros.
+eurotwenty_20.jpg#2	this note has a value of twenty euros.
+eurotwenty_21.jpg#0	twenty euro currency note.
+eurotwenty_21.jpg#1	currency note of twenty euros.
+eurotwenty_21.jpg#2	this note has a value of twenty euros.
+eurotwenty_22.jpg#0	twenty euro currency note.
+eurotwenty_22.jpg#1	currency note of twenty euros.
+eurotwenty_22.jpg#2	this note has a value of twenty euros.
+eurotwenty_23.jpg#0	twenty euro currency note.
+eurotwenty_23.jpg#1	currency note of twenty euros.
+eurotwenty_23.jpg#2	this note has a value of twenty euros.
+eurotwenty_24.jpg#0	twenty euro currency note.
+eurotwenty_24.jpg#1	currency note of twenty euros.
+eurotwenty_24.jpg#2	this note has a value of twenty euros.
+eurotwenty_25.jpg#0	twenty euro currency note.
+eurotwenty_25.jpg#1	currency note of twenty euros.
+eurotwenty_25.jpg#2	this note has a value of twenty euros.
+eurotwenty_26.jpg#0	twenty euro currency note.
+eurotwenty_26.jpg#1	currency note of twenty euros.
+eurotwenty_26.jpg#2	this note has a value of twenty euros.
+eurotwenty_27.jpg#0	twenty euro currency note.
+eurotwenty_27.jpg#1	currency note of twenty euros.
+eurotwenty_27.jpg#2	this note has a value of twenty euros.
+eurotwenty_28.jpg#0	twenty euro currency note.
+eurotwenty_28.jpg#1	currency note of twenty euros.
+eurotwenty_28.jpg#2	this note has a value of twenty euros.
+eurotwenty_29.jpg#0	twenty euro currency note.
+eurotwenty_29.jpg#1	currency note of twenty euros.
+eurotwenty_29.jpg#2	this note has a value of twenty euros.
+eurotwenty_30.jpg#0	twenty euro currency note.
+eurotwenty_30.jpg#1	currency note of twenty euros.
+eurotwenty_30.jpg#2	this note has a value of twenty euros.
+eurotwohundred_1.jpg#0	two hundred euro currency note.
+eurotwohundred_1.jpg#1	currency note of two hundred euros
+eurotwohundred_1.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_2.jpg#0	two hundred euro currency note.
+eurotwohundred_2.jpg#1	currency note of two hundred euros.
+eurotwohundred_2.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_3.jpg#0	two hundred euro currency note.
+eurotwohundred_3.jpg#1	currency note of two hundred euros.
+eurotwohundred_3.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_4.jpg#0	two hundred euro currency note.
+eurotwohundred_4.jpg#1	currency note of two hundred euros.
+eurotwohundred_4.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_5.jpg#0	two hundred euro currency note.
+eurotwohundred_5.jpg#1	currency note of two hundred euros.
+eurotwohundred_5.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_6.jpg#0	two hundred euro currency note.
+eurotwohundred_6.jpg#1	currency note of two hundred euros.
+eurotwohundred_6.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_7.jpg#0	two hundred euro currency note.
+eurotwohundred_7.jpg#1	currency note of two hundred euros.
+eurotwohundred_7.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_8.jpg#0	two hundred euro currency note.
+eurotwohundred_8.jpg#1	currency note of two hundred euros.
+eurotwohundred_8.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_9.jpg#0	two hundred euro currency note.
+eurotwohundred_9.jpg#1	currency note of two hundred euros.
+eurotwohundred_9.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_10.jpg#0	two hundred euro currency note.
+eurotwohundred_10.jpg#1	currency note of two hundred euros.
+eurotwohundred_10.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_11.jpg#0	two hundred euro currency note.
+eurotwohundred_11.jpg#1	currency note of two hundred euros.
+eurotwohundred_11.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_12.jpg#0	two hundred euro currency note.
+eurotwohundred_12.jpg#1	currency note of two hundred euros.
+eurotwohundred_12.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_13.jpg#0	two hundred euro currency note.
+eurotwohundred_13.jpg#1	currency note of two hundred euros.
+eurotwohundred_13.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_14.jpg#0	two hundred euro currency note.
+eurotwohundred_14.jpg#1	currency note of two hundred euros.
+eurotwohundred_14.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_15.jpg#0	two hundred euro currency note.
+eurotwohundred_15.jpg#1	currency note of two hundred euros.
+eurotwohundred_15.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_16.jpg#0	two hundred euro currency note.
+eurotwohundred_16.jpg#1	currency note of two hundred euros.
+eurotwohundred_16.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_17.jpg#0	two hundred euro currency note.
+eurotwohundred_17.jpg#1	currency note of two hundred euros.
+eurotwohundred_17.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_18.jpg#0	two hundred euro currency note.
+eurotwohundred_18.jpg#1	currency note of two hundred euros.
+eurotwohundred_18.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_19.jpg#0	two hundred euro currency note.
+eurotwohundred_19.jpg#1	currency note of two hundred euros.
+eurotwohundred_19.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_20.jpg#0	two hundred euro currency note.
+eurotwohundred_20.jpg#1	currency note of two hundred euros.
+eurotwohundred_20.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_21.jpg#0	two hundred euro currency note.
+eurotwohundred_21.jpg#1	currency note of two hundred euros.
+eurotwohundred_21.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_22.jpg#0	two hundred euro currency note.
+eurotwohundred_22.jpg#1	currency note of two hundred euros.
+eurotwohundred_22.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_23.jpg#0	two hundred euro currency note.
+eurotwohundred_23.jpg#1	currency note of two hundred euros.
+eurotwohundred_23.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_24.jpg#0	two hundred euro currency note.
+eurotwohundred_24.jpg#1	currency note of two hundred euros.
+eurotwohundred_24.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_25.jpg#0	two hundred euro currency note.
+eurotwohundred_25.jpg#1	currency note of two hundred euros.
+eurotwohundred_25.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_26.jpg#0	two hundred euro currency note.
+eurotwohundred_26.jpg#1	currency note of two hundred euros.
+eurotwohundred_26.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_27.jpg#0	two hundred euro currency note.
+eurotwohundred_27.jpg#1	currency note of two hundred euros.
+eurotwohundred_27.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_28.jpg#0	two hundred euro currency note.
+eurotwohundred_28.jpg#1	currency note of two hundred euros.
+eurotwohundred_28.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_29.jpg#0	two hundred euro currency note.
+eurotwohundred_29.jpg#1	currency note of two hundred euros.
+eurotwohundred_29.jpg#2	this note has a value of two hundred euros.
+eurotwohundred_30.jpg#0	two hundred euro currency note.
+eurotwohundred_30.jpg#1	currency note of two hundred euros.
+eurotwohundred_30.jpg#2	this note has a value of two hundred euros.
+food_street1.jpg#0	street filled with people trees and benches.
+food_street1.jpg#1	The food street has cafes and people eating.
+food_street1.jpg#2	a sidewalk has bicycles and electric poles.
+food_street2.jpg#0	footpath has people sitting outside a restaurant.
+food_street2.jpg#1	There is a lady with blonde hair.
+food_street2.jpg#2	There are brown and green chairs and also man in white shirt.
+food_street3.jpg#0	There are brown chairs and white tables on a footpath.
+food_street3.jpg#1	people are sitting outside a red cafe.
+food_street3.jpg#2	There are brown buildings with lighting.
+food_street4.jpg#0	There are restaurants on either side of the footpath.
+food_street4.jpg#1	a food street with tables and chairs
+food_street4.jpg#2	people are dining outside the restaurants.
+food_street5.jpg#0	people are dining outside cafes on a food street.
+food_street5.jpg#1	The street has multiple chairs and tables.
+food_street5.jpg#2	red buildings have neon lights.
+food_street6.jpg#0	planters have bushy plants.
+food_street6.jpg#1	busy foodstreet is filled with people.
+food_street6.jpg#2	red buildings have tables and chairs.
+food_street7.jpg#0	men and women are sitting on wooden tables.
+food_street7.jpg#1	white tables and white chairs are seen on the footpath.
+food_street7.jpg#2	brown buildings are seen with street lamps.
+food_street8.jpg#0	There are white chairs and brown tables.
+food_street8.jpg#1	street lamps are seen with cars on footpath.
+food_street8.jpg#2	red buildings have lights.
+food_street9.jpg#0	There are yellow and green table umbrellas.
+food_street9.jpg#1	multiple buildings are seen with the American flag.
+food_street9.jpg#2	busy foodstreet has people.
+food_street10.jpg#0	green coloured cafe has people.
+food_street10.jpg#1	menu boards are seen outside the restaurant.
+food_street10.jpg#2	brown building are there with windows and balconies.
+food_street11.jpg#0	blue board is seen with spring natural written on it.
+food_street11.jpg#1	building have large glass windows.
+food_street11.jpg#2	multiple people are seen sitting on black chairs.
+food_street12.jpg#0	brown buildings have multiple windows.
+food_street12.jpg#1	green table has umbrellas and white chairs.
+food_street12.jpg#2	A clear blue sky is seen.
+food_street13.jpg#0	There is a man with red t-shirt and glasses.
+food_street13.jpg#1	There are buildings and street lamps on busy street.
+food_street13.jpg#2	There are blue and red table umbrellas.
+food_street14.jpg#0	There is a red sign saying BRU.
+food_street14.jpg#1	There are multiple trees on footpath.
+food_street14.jpg#2	The wooden benches are seen outside the buildings.
+food_street15.jpg#0	brown basket has red flowers.
+food_street15.jpg#1	There is clear blue sky and green trees.
+food_street15.jpg#2	There is a brown building with windows.
+food_street16.jpg#0	The blue building has the writing clancys spirit stores on it.
+food_street16.jpg#1	There are silver chairs and tables.
+food_street16.jpg#2	three women are sitting at a table.
+food_street17.jpg#0	trees and cars are seen at the side of footpath.
+food_street17.jpg#1	there are yellow chairs and tables. 
+food_street17.jpg#2	three people are sitting at a table.
+food_street18.jpg#0	There are white table umbrellas.
+food_street18.jpg#1	three people are seen walking.
+food_street18.jpg#2	people are dining outside the restaurant.
+food_street19.jpg#0	There are white table umbrellas and street lamp.
+food_street19.jpg#1	multiple people are seen with chairs and tables.
+food_street19.jpg#2	brown and blue building have windows.
+food_street20.jpg#0	There are red table umbrellas.
+food_street20.jpg#1	shadows of buildings are seen on the food street.
+food_street20.jpg#2	three menu boards are on the footpath.
+food_street21.jpg#0	tables and bamboo chairs are seen on food street.
+food_street21.jpg#1	There is a red board with the saying le consulat.
+food_street21.jpg#2	green plant is on the sidewalk.
+food_street22.jpg#0	blue and white striped cloth is seen.
+food_street22.jpg#1	There are red chairs and white tables.
+food_street22.jpg#2	seven people are sitting at a restaurant.
+food_street23.jpg#0	There are white table umbrellas.
+food_street23.jpg#1	There are red chairs and white tables.
+food_street23.jpg#2	There are yellow light lamps.
+food_street24.jpg#0	There is a board with saying biscou.
+food_street24.jpg#1	large brown door is at the side.
+food_street24.jpg#2	There are green plants with white flowers.
+food_street25.jpg#0	There is a green board saying le petit parisian.
+food_street25.jpg#1	There is a green building with windows.
+food_street25.jpg#2	people are sitting on food street in broad daylight.
+food_street26.jpg#0	Therre are green trees and street lamps.
+food_street26.jpg#1	The busy food street is filled with people.
+food_street26.jpg#2	There is clear blue sky and buildings.
+food_street27.jpg#0	There are red table umbrellas.
+food_street27.jpg#1	There are menu boards on footpath. 
+food_street27.jpg#2	There are yellow light lamps.
+food_street28.jpg#0	There is a board saying bar bistro.
+food_street28.jpg#1	There are plants on green railings.
+food_street28.jpg#2	blue buildings have windows.
+food_street29.jpg#0	black menu board is seen outside restaurant.
+food_street29.jpg#1	red coloured building has windows.
+food_street29.jpg#2	There are bamboo chairs and tables.
+food_street30.jpg#0	There is a bamboo hut restaurant with chairs and tables.
+food_street30.jpg#1	people are dining in the restaurant.  
+food_street30.jpg#2	There ia a board saying railay family restaurant.
+greensig1.jpg#0	traffic signal has green light on.
+greensig1.jpg#1	green colour on traffic signal.
+greensig1.jpg#2	walking symbol shown on traffic light.
+greensig2.jpg#0	pedestrian and cycle crossing indicator on traffic signal.
+greensig2.jpg#1	green light on traffic signal indicating crossing.
+greensig2.jpg#2	push button available on traffic signal.
+greensig3.jpg#0	green light for walking on traffic signal.
+greensig3.jpg#1	pedestrian crossing indicated on traffic signal.
+greensig3.jpg#2	walking symbol shown on traffic light.
+greensig4.jpg#0	traffic signal pole present at end of the road.
+greensig4.jpg#1	green walking symbol indicated on screen.
+greensig4.jpg#2	traffic signal screen in present next to footpath.
+greensig5.jpg#0	pedestrian crossing indicator on traffic signal.
+greensig5.jpg#1	traffic signal is showing green light for crossing.
+greensig5.jpg#2	walking symbol shown on screen.
+greensig6.jpg#0	green crossing symbol shown on traffic light.
+greensig6.jpg#1	traffic light indicating pedestrian crossing.
+greensig6.jpg#2	walking symbol shown on traffic signal.
+greensig7.jpg#0	green crossing symbol shown on traffic light.
+greensig7.jpg#1	traffic light indicating pedestrian crossing.
+greensig7.jpg#2	walking symbol shown on traffic signal.
+greensig8.jpg#0	pedestrian and cycle crossing indicator on traffic signal.
+greensig8.jpg#1	push button available on traffic signal.
+greensig8.jpg#2	green light on traffic signal indicates that you can cross.
+greensig9.jpg#0	traffic light indicating pedestrian crossing.
+greensig9.jpg#1	walking symbol shown in green.
+greensig9.jpg#2	green crossing symbol shown on traffic light.
+greensig10.jpg#0	push button available on traffic signal.
+greensig10.jpg#1	green light indicates that you can cross.
+greensig10.jpg#2	pedestrian crossing indicated on traffic light.
+greensig11.jpg#0	pedestrian and cycle crossing indicator on traffic signal.
+greensig11.jpg#1	green light indicates that you can cross.
+greensig11.jpg#2	green light indicates that you can cycle across the road.
+greensig12.jpg#0	green light indicating you can cross.
+greensig12.jpg#1	pedestrian crossing shown on traffic signal.
+greensig12.jpg#2	traffic signal with green colour on.
+greensig13.jpg#0	traffic signal indicating cycle and pedestrian crossing.
+greensig13.jpg#1	traffic signal shows green crossing symbol on.
+greensig13.jpg#2	green light on signal indicates you can cross the road.
+greensig14.jpg#0	green light on signal indicating you can cross the road.
+greensig14.jpg#1	number display is shown on traffic light.
+greensig14.jpg#2	pedestrian crossing indicated on traffic light.
+greensig15.jpg#0	green walking symbol on traffic light indicating you can cross the road.
+greensig15.jpg#1	pedestrian crossing shown on traffic light.
+greensig15.jpg#2	green light seen on traffic light.
+greensig16.jpg#0	green walking symbol on traffic light indicating you can cross the road.
+greensig16.jpg#1	pedestrian crossing shown on traffic light.
+greensig16.jpg#2	green light seen on traffic light.
+greensig17.jpg#0	green light on signal indicating you can cross the road.
+greensig17.jpg#1	number display is shown on traffic light. 
+greensig17.jpg#2	pedestrian crossing indicated on traffic light.
+greensig18.jpg#0	pedestrian crossing show on traffic light.
+greensig18.jpg#1	green light seen on traffic light.
+greensig18.jpg#2	green walking symbol shown on traffic light indicating to cross the road.
+greensig19.jpg#0	pedestrian and cycle crossing indicator on traffic signal.
+greensig19.jpg#1	green light showing that you can cross the road.
+greensig19.jpg#2	green light indicating you can cycle across the road.
+greensig20.jpg#0	green light indicating you can cross the road.
+greensig20.jpg#1	traffic light shows two people crossing the road.
+greensig20.jpg#2	you can cross the road once the light turns green.
+lift1.jpg#0	there are two lifts in a hallway.
+lift1.jpg#1	the hall way is well lit.
+lift1.jpg#2	the lift buttons are present on the right.
+lift2.jpg#0	two lifts present in a hall.
+lift2.jpg#1	there is a plant next to the lift.
+lift2.jpg#2	both the lift doors are closed.
+lift3.jpg#0	there is a lift present in front of you.
+lift3.jpg#1	the lift doors are closed.
+lift3.jpg#2	there is a screen present above the lift.
+lift4.jpg#0	the lift doors are closed.
+lift4.jpg#1	the lift doors are made of metal.
+lift4.jpg#2	there is a notice attached next to the lift.
+lift5.jpg#0	there is a lift in front of you.
+lift5.jpg#1	the lift doors are closed.
+lift5.jpg#2	there is numbering on top of the lift.
+lift6.jpg#0	there is a lift in front of you.
+lift6.jpg#1	the lift doors are closed.
+lift6.jpg#2	up and down arrows present above the lift.
+lift7.jpg#0	there is a lift present in front of you.
+lift7.jpg#1	up and down arrows present on the lift.
+lift7.jpg#2	the lift doors are closed.
+lift8.jpg#0	there is a single lift present in the hallway.
+lift8.jpg#1	lift buttons present on the right. 
+lift8.jpg#2	you are on the twelfth floor.
+lift9.jpg#0	there are two lifts present in front of you.
+lift9.jpg#1	the lift doors are closed.
+lift9.jpg#2	there is a red wall around the lift.
+lift10.jpg#0	there is a lift in front of you.
+lift10.jpg#1	the lift button is present on the left.
+lift10.jpg#2	up and down arrows above the lift.
+lift11.jpg#0	there is a lift in front of you.
+lift11.jpg#1	the lift button in present on the lift.
+lift11.jpg#2	the lift doors are closed.
+lift12.jpg#0	there is a lift in front of you.
+lift12.jpg#1	the lift doors are closed.
+lift12.jpg#2	the lift button is present on the left.
+lift13.jpg#0	there is a lift in front of you.
+lift13.jpg#1	there are stairs next to the lift.
+lift13.jpg#2	the lift doors are closed.
+lift14.jpg#0	there is a lift in front of you.
+lift14.jpg#1	the lift doors are closed.
+lift14.jpg#2	the lift button is present on the right.
+lift15.jpg#0	there is a lift in front of you.
+lift15.jpg#1	there is a board on the side of the lift.
+lift15.jpg#2	there are stairs present next to the lift.
+lift16.jpg#0	there is a lift in front of you.
+lift16.jpg#1	there is a framed picture on the wall beside the lift.
+lift16.jpg#2	lift buttons are present on the right.
+lift17.jpg#0	there is a lift in front of you.
+lift17.jpg#1	lift button is present on the right.
+lift17.jpg#2	there are plants present on either side of the lift.
+lift18.jpg#0	there is a lift in front of you.
+lift18.jpg#1	there is provision for wheelchair into the lift.
+lift18.jpg#2	there is a screen showing the floor number.
+lift19.jpg#0	there are two lifts present in the hallway.
+lift19.jpg#1	the lift doors are closed.
+lift19.jpg#2	lift buttons are present between the two lifts.
+lift20.jpg#0	there are three lifts present adjacent to each other.
+lift20.jpg#1	plants are kept between the lifts.
+lift20.jpg#2	lift button is present on the right side.
+lift21.jpg#0	there is a lift in front of you.
+lift21.jpg#1	lift buttons present on the right side.
+lift21.jpg#2	the lift doors are closed.
+lift22.jpg#0	there is a lift in front of you.
+lift22.jpg#1	there is a screen above the lift indicating the floor.
+lift22.jpg#2	lift button is present on the lift.
+lift23.jpg#0	there is a lift in front of you.
+lift23.jpg#1	there is a screen above the lift indicating the floor.
+lift23.jpg#2	the lift doors are closed.
+lift24.jpg#0	there is a window beside the lift.
+lift24.jpg#1	there is a wooden frame around the lift.
+lift24.jpg#2	the lift doors are closed.
+lift25.jpg#0	there is a lift in front of you.
+lift25.jpg#1	the lift doors are closed.
+lift25.jpg#2	lift buttons are present on the right side.
+lift26.jpg#0	there is a pillar next to the lift.
+lift26.jpg#1	there is a lift in front of you.
+lift26.jpg#2	lift buttons are present on the right side.
+lift27.jpg#0	there is a lift in front of you.
+lift27.jpg#1	lift buttons are present on the right.
+lift27.jpg#2	there is a wooden frame around the lift.
+lift28.jpg#0	there is a lift in front of you.
+lift28.jpg#1	there is a camera present above the lift.
+lift28.jpg#2	lift buttons are present on the right side.
+lift29.jpg#0	there is a lift in front of you.
+lift29.jpg#1	lift buttons are present on the left side.
+lift29.jpg#2	the lift doors are closed.
+lift30.jpg#0	there are two lifts in front of you.
+lift30.jpg#1	both the lift doors are closed.
+lift30.jpg#2	lift buttons are present in between the lifts.
+luas_pp1.jpg#0	tram has reached the station.
+luas_pp1.jpg#1	people are waiting on the footpath.
+luas_pp1.jpg#2	tram is approaching please stay away from the sidelines.
+luas_pp2.jpg#0	tram is approaching on your right.
+luas_pp2.jpg#1	people are walking on the footpath.
+luas_pp2.jpg#2	there is a dustbin on the left.
+luas_pp3.jpg#0	people are boarding the tram.
+luas_pp3.jpg#1	tram has approached the station.
+luas_pp3.jpg#2	tram is present on the right side.
+luas_pp4.jpg#0	tram has approached the station.
+luas_pp4.jpg#1	there is a car next to the tram.
+luas_pp4.jpg#2	people are boarding the tram.
+luas_pp5.jpg#0	tram is approaching the station on the left.
+luas_pp5.jpg#1	a woman is crossing the road.
+luas_pp5.jpg#2	people are walking on the footpath.
+luas_pp6.jpg#0	tram is approaching the station on the right.
+luas_pp6.jpg#1	people are waiting on the footpath.
+luas_pp6.jpg#2	there is seating available at the station on the left.
+luas_pp7.jpg#0	tram has approached the station.
+luas_pp7.jpg#1	people are boarding the tram.
+luas_pp7.jpg#2	buildings are present behind the tram.
+luas_pp8.jpg#0	tram has approached the station.
+luas_pp8.jpg#1	people are sitting in the tram.
+luas_pp8.jpg#2	people are boarding the tram.
+luas_pp9.jpg#0	tram has approached the station.
+luas_pp9.jpg#1	people are boarding the tram.
+luas_pp9.jpg#2	people are waiting at the station.
+luas_pp10.jpg#0	tram has approached the station.
+luas_pp10.jpg#1	people are waiting on the footpath.
+luas_pp10.jpg#2	ticket counter is present at the station.
+luas_pp11.jpg#0	tram has approached the station. 
+luas_pp11.jpg#1	people are waiting on the footpath.
+luas_pp11.jpg#2	people are boarding the train.
+luas_pp12.jpg#0	people are boarding the train.
+luas_pp12.jpg#1	tram has approached the station.
+luas_pp12.jpg#2	there is a building present behind the tram.
+luas_pp13.jpg#0	tram has approached the station.
+luas_pp13.jpg#1	tram is present on the right.
+luas_pp13.jpg#2	a woman is boarding the tram.
+luas_pp14.jpg#0	tram has approached the station.
+luas_pp14.jpg#1	there is a man boarding the tram.
+luas_pp14.jpg#2	there is a building behind the tram.
+luas_pp15.jpg#0	tram has approached the station.
+luas_pp15.jpg#1	people are boarding the train.
+luas_pp15.jpg#2	there are building behind the tram.
+luas_pp16.jpg#0	tram has approached the station.
+luas_pp16.jpg#1	people are crossing the road.
+luas_pp16.jpg#2	people are walking on the footpath.
+luas_pp17.jpg#0	tram has approached the station.
+luas_pp17.jpg#1	people are boarding the tram.
+luas_pp17.jpg#2	there are trees behind the tram.
+luas_pp18.jpg#0	tram has approached the station.
+luas_pp18.jpg#1	a woman is crossing the road.
+luas_pp18.jpg#2	brown building present behind the tram.
+luas_pp19.jpg#0	tram is approaching the station.
+luas_pp19.jpg#1	man is waiting on the footpath.
+luas_pp19.jpg#2	people are crossing the road.
+luas_pp20.jpg#0	tram has approached the station.
+luas_pp20.jpg#1	people are waiting on the footpath.
+luas_pp20.jpg#2	people are boarding the tram.
+luas_pp21.jpg#0	tram has approached the station.
+luas_pp21.jpg#1	people are boarding the train.
+luas_pp21.jpg#2	board showing train timings present at the station. 
+luas_pp22.jpg#0	tram has approached the station.
+luas_pp22.jpg#1	people are boarding the tram.
+luas_pp22.jpg#2	man is walking on the footpath.
+luas_pp23.jpg#0	tram as approached the station.
+luas_pp23.jpg#1	people are waiting on the footpath.
+luas_pp23.jpg#2	street lamps and a building present behind the tram.
+luas_pp24.jpg#0	tram has approached the station.
+luas_pp24.jpg#1	people are boarding the tram.
+luas_pp24.jpg#2	building present behind the tram.
+luas_pp25.jpg#0	tram has approached the station.
+luas_pp25.jpg#1	man is boarding the tram.
+luas_pp25.jpg#2	street lamps on either side of the road.
+luas1.jpg#0	tram has approached the station.
+luas1.jpg#1	street lamps present on the footpath.
+luas1.jpg#2	tram doors are closed.
+luas2.jpg#0	tram has approached the station.
+luas2.jpg#1	there are people walking on the streets.
+luas2.jpg#2	there are huge buildings on both sides of the street.
+luas3.jpg#0	tram has approached the station.
+luas3.jpg#1	there is a pole displaying food menu on the footpath.
+luas3.jpg#2	people are walking on the footpath.
+luas4.jpg#0	tram has approached the station.
+luas4.jpg#1	a woman is crossing the road.
+luas4.jpg#2	brown building present behind the tram.
+luas5.jpg#0	tram has approached the station. 
+luas5.jpg#1	people are waiting on the footpath.
+luas5.jpg#2	people are boarding the train.
+luas6.jpg#0	tram has reached the station.
+luas6.jpg#1	people are boarding the train.
+luas6.jpg#2	there are streetlights on the footpath.
+luas7.jpg#0	tram has reached the station.
+luas7.jpg#1	the station is empty.
+luas7.jpg#2	tram number is 3019.
+luas8.jpg#0	tram has approached the station.
+luas8.jpg#1	there is a statue present on the footpath.
+luas8.jpg#2	people are walking on the street.
+luas9.jpg#0	tram has reached the station.
+luas9.jpg#1	people are boarding the tram.
+luas9.jpg#2	a woman is buying a ticket at the counter.
+luas10.jpg#0	there is a red building.
+luas10.jpg#1	tram has reached the station.
+luas10.jpg#2	train number is 5023.
+luas11.jpg#0	people are waiting at the station.
+luas11.jpg#1	there is a board displaying tram timings.
+luas11.jpg#2	tram has approached the station.
+luas12.jpg#0	there are many trees.
+luas12.jpg#1	the tram is present on the right.
+luas12.jpg#2	people are walking on the footpath.
+luas13.jpg#0	a man is boarding the tram.
+luas13.jpg#1	tram has reached the metro station.
+luas13.jpg#2	street lamps present on either side of the road.
+luas14.jpg#0	street lamps on both sides of the road.
+luas14.jpg#1	man is waiting at the station.
+luas14.jpg#2	tram number is 3006.
+luas15.jpg#0	tram has approached the station.
+luas15.jpg#1	tram number is 5001.
+luas15.jpg#2	a woman is walking on the footpath.
+music1.jpg#0	three men are playing music on the street.
+music1.jpg#1	one man is playing the guitar.
+music1.jpg#2	there are shops behind the men.
+music2.jpg#0	two men are playing music on the street.
+music2.jpg#1	one man is playing the guitar.
+music2.jpg#2	there is a guitar case lying on the street.
+music3.jpg#0	a few people are playing music on the streets.
+music3.jpg#1	there are multiple stores on the street.
+music3.jpg#2	the woman is playing the violin.
+music4.jpg#0	there is a building named brown thomas.
+music4.jpg#1	a few people are playing musical instruments on the street.
+music4.jpg#2	there are street lamps on the street.
+music5.jpg#0	there are few men playing music on the corner of a street.
+music5.jpg#1	there are people walking down the street.
+music5.jpg#2	there are multiple stores on the street.
+music6.jpg#0	three men are playing music on the corner of a street.
+music6.jpg#1	there is a yellow building named evergreen.
+music6.jpg#2	a pole showing direction to different areas.
+music7.jpg#0	a few people are playing instruments on the side of the street.
+music7.jpg#1	one man is playing the guitar.
+music7.jpg#2	one man is playing the violin.
+music8.jpg#0	four men are playing music.
+music8.jpg#1	there is a black door behind one of the men.
+music8.jpg#2	two of the men are playing guitar.
+music9.jpg#0	four men are playing music on the corner of the street.
+music9.jpg#1	there is a pole showing directions to different areas.
+music9.jpg#2	there are people walking down the street.
+music10.jpg#0	a woman is playing the guitar.
+music10.jpg#1	there is a building named bank of Ireland.
+music10.jpg#2	there is a black and white poster behind the woman.
+music11.jpg#0	a group of people are playing music on the street.
+music11.jpg#1	the man on the left is playing the guitar.
+music11.jpg#2	there is a black store.
+music12.jpg#0	four men are playing the guitar.
+music12.jpg#1	there is a store named ausoba.
+music12.jpg#2	the men are wearing black outfits.
+music13.jpg#0	there are three people playing music on the street.
+music13.jpg#1	two men are playing the guitar.
+music13.jpg#2	there are three windows present behind the musicians.
+music14.jpg#0	three men are playing music on the street.
+music14.jpg#1	one man is playing drums.
+music14.jpg#2	there are two huge windows present.
+music15.jpg#0	people are playing music on the corner of a street.
+music15.jpg#1	all the musicians are wearing hats.
+music15.jpg#2	musicians are playing the guitar.
+music16.jpg#0	there are men playing music on the street.
+music16.jpg#1	there is a united colours of benneton store.
+music16.jpg#2	people are walking across the street.
+music17.jpg#0	one man is playing the guitar on the street.
+music17.jpg#1	a man is holding an umbrella.
+music17.jpg#2	there is a mic present in front of the man.
+music18.jpg#0	few people are playing music on the street.
+music18.jpg#1	one man is on the mic.
+music18.jpg#2	two men are playing the guitar.
+music19.jpg#0	three men are playing music on the street.
+music19.jpg#1	two men are playing the guitar.
+music19.jpg#2	there is a colourful tree.
+music20.jpg#0	three men are playing music on the street.
+music20.jpg#1	two men are playing the guitar.
+music20.jpg#2	there are speakers present.
+music21.jpg#0	there are three men playing music.
+music21.jpg#1	there is a building named card gallery.
+music21.jpg#2	there is a guitar case on the street.
+music22.jpg#0	few men are playing music on the street.
+music22.jpg#1	three men are playing the guitar.
+music22.jpg#2	there is a store behind the musicians.
+music23.jpg#0	one man is playing the guitar.
+music23.jpg#1	there are trees and a building. 
+music23.jpg#2	there is a mic present.
+music24.jpg#0	there are four people playing music on the street.
+music24.jpg#1	four musicians are playing the violin.
+music24.jpg#2	there are two dress stores present.
+music25.jpg#0	few people are playing music on the streets. 
+music25.jpg#1	a woman is playing the keyboard.
+music25.jpg#2	two men are playing the guitar.
+music26.jpg#0	four men are playing music.
+music26.jpg#1	there are people walking across the street.
+music26.jpg#2	there is a store with mannequins present.
+music27.jpg#0	three men are playing music.
+music27.jpg#1	two men are playing the guitar.
+music27.jpg#2	there is a store present behind the musicians.
+music28.jpg#0	a few people are playing music on the street.
+music28.jpg#1	there are people walking across the street.
+music28.jpg#2	there is a store with a discount poster.
+music29.jpg#0	few people are playing music on the street.
+music29.jpg#1	there is a mannequin present in the store.
+music29.jpg#2	one man is playing the guitar.
+music30.jpg#0	few people are playing music on the footpath.
+music30.jpg#1	mannequins are present in the store.
+music30.jpg#2	one man is playing the flute.
+play1.jpg#0	two kids are playing with the football.
+play1.jpg#1	two kids are playing on the lawn.
+play1.jpg#2	there is a pathway between the two lawns.
+play2.jpg#0	two kids are playing with the football.
+play2.jpg#1	two kids are playing on the lawn.
+play2.jpg#2	threre is a pathway between the lawns.
+play3.jpg#0	two kids are playing on the lawn.
+play3.jpg#1	there is a football on the grass.
+play3.jpg#2	the two kids are wearing white t-shirts.
+play4.jpg#0	there are two kids playing with a football.
+play4.jpg#1	there are patches on both sides of the lawn.
+play4.jpg#2	one kid is wearing a hat.
+play5.jpg#0	two kids are playing on a grassy patch.
+play5.jpg#1	two kids are playing with a football.
+play5.jpg#2	there are multiple green trees.
+play6.jpg#0	three kids are playing on a grassy patch. 
+play6.jpg#1	kids are playing with a football.
+play6.jpg#2	people are sitting in the stands.
+play7.jpg#0	kids are playing on the field.
+play7.jpg#1	kids are playing with a football.
+play7.jpg#2	people are standing on the field.
+play8.jpg#0	there is a football field.
+play8.jpg#1	two kids are playing with a football on the field.
+play8.jpg#2	kids are wearing white t-shirts. 
+play9.jpg#0	there are players running on the field.
+play9.jpg#1	three people are playing football.
+play9.jpg#2	red line markings are present on the field.
+play10.jpg#0	two kids are playing on the field.
+play10.jpg#1	two kids are playing football on the field.
+play10.jpg#2	there is a goal post. 
+play11.jpg#0	two kids are playing on the lawn.
+play11.jpg#1	two kids are playing with a football.
+play11.jpg#2	there is a pathway between the two lawns.
+play12.jpg#0	two kids are playing on a grassy patch.
+play12.jpg#1	two kids are playing with a football.
+play12.jpg#2	there are multiple green trees.
+play13.jpg#0	there is a football field.
+play13.jpg#1	two kids are playing on the football field.
+play13.jpg#2	the kids are wearing white t-shirts. 
+play14.jpg#0	two kids are playing on the field.
+play14.jpg#1	two kids are playing with a football.
+play14.jpg#2	there is a wide grassy patch.
+play15.jpg#0	three kids are playing football on the field. 
+play15.jpg#1	there is a football field.
+play15.jpg#2	white line markings are present on the field.
+play16.jpg#0	few kids are playing football.
+play16.jpg#1	one kid is running towards the football.
+play16.jpg#2	there is grass everywhere.
+play17.jpg#0	three girls are playing on a field.
+play17.jpg#1	three girls are playing with a football.
+play17.jpg#2	football nets are present on the field.
+play18.jpg#0	three girls are playing football on a field.
+play18.jpg#1	cars are parked outside the field.
+play18.jpg#2	traffic cones are kept on the field.
+play19.jpg#0	four kids are playing on a field.
+play19.jpg#1	kids are playing with a ball.
+play19.jpg#2	there are huge plants around the field.
+play20.jpg#0	woman are playing football on the field.
+play20.jpg#1	one team is wearing white jersey.
+play20.jpg#2	one team is wearing blue jersey.
+play21.jpg#0	four kids are playing on the field.
+play21.jpg#1	kids are playing with a football.
+play21.jpg#2	three kids are wearing blue t-shirts. 
+play22.jpg#0	two women are playing football.
+play22.jpg#1	two women are playing on the field.
+play22.jpg#2	they are wearing white t-shirts.
+play23.jpg#0	there is a football field.
+play23.jpg#1	two women are playing football on the field.
+play23.jpg#2	one woman is wearing a black jersey.
+play24.jpg#0	two men are playing football.
+play24.jpg#1	one man is wearing blue jersey.
+play24.jpg#2	white jersey with the name jeep on it.
+play25.jpg#0	few people are playing football on the field.
+play25.jpg#1	one woman is kicking the football.
+play25.jpg#2	white line markings are present on the field.
+playing1.jpg#0	children are playing in the park.
+playing1.jpg#1	there is a swing and a slide.
+playing1.jpg#2	huge trees in the surrounding.
+playing2.jpg#0	two kids are playing on a swing.
+playing2.jpg#1	there is a grass patch surrounding the swing.
+playing2.jpg#2	one kid is wearing a white t-shirt. 
+playing3.jpg#0	there are swings and ladders in the park.
+playing3.jpg#1	three kids are playing on the swing.
+playing3.jpg#2	one kid is wearing a cap.
+playing4.jpg#0	swing is placed on green grass.
+playing4.jpg#1	few kids are playing on the swing.
+playing4.jpg#2	wooden house present next to the swing.
+playing5.jpg#0	three kids are playing on a swing.
+playing5.jpg#1	swing has wooden support.
+playing5.jpg#2	there are plants in the surroundings.
+playing6.jpg#0	the park has slides and a swing.
+playing6.jpg#1	three kids are playing on the swing.
+playing6.jpg#2	a man is walking on the grass.
+playing7.jpg#0	two kids are playing on the swing.
+playing7.jpg#1	a man is pushing the swing.
+playing7.jpg#2	a huge tree is present next to the swing.
+playing8.jpg#0	four kids are playing on the swing. 
+playing8.jpg#1	there is a grass hedge behind the swing.
+playing8.jpg#2	the swing has a triangular support.
+playing9.jpg#0	two kids are playing on a swing.
+playing9.jpg#1	the swing has triangular support.
+playing9.jpg#2	there is a grass hedge present behind the swing.
+playing10.jpg#0	three kids are playing in a park.
+playing10.jpg#1	a swing is present in the park.
+playing10.jpg#2	one girl is holding a ball in her hands.
+playing11.jpg#0	a few kids are running on the grass.
+playing11.jpg#1	there are multiple trees in the park.
+playing11.jpg#2	few kids are playing in the park.
+playing12.jpg#0	few kids are playing on a swing.
+playing12.jpg#1	a man is pushing the swing.
+playing12.jpg#2	there is a slide next to the swing.
+playing13.jpg#0	kids are running on the grass.
+playing13.jpg#1	there is bright sunlight.
+playing13.jpg#2	huge trees are present in the park.
+playing14.jpg#0	kids are running on a pathway in a park.
+playing14.jpg#1	there is grass on both sides of the path.
+playing14.jpg#2	kids are wearing backpacks.
+playing15.jpg#0	kids are playing in a park.
+playing15.jpg#1	kids are playing on the merry go round.
+playing15.jpg#2	few kids are running on the sand.
+playing16.jpg#0	few people are sitting on grass.
+playing16.jpg#1	people are sitting under the shade of a tree.
+playing16.jpg#2	few people are sitting and playing in a park.
+playing17.jpg#0	two kids are playing on a swing.
+playing17.jpg#1	the swing has triangular support.
+playing17.jpg#2	one kid is wearing a hairband. 
+playing18.jpg#0	kids are playing on a swing.
+playing18.jpg#1	one woman is pushing the swing.
+playing18.jpg#2	there is a green grass patch behind the swing.
+playing19.jpg#0	kids are playing on the merry go round.
+playing19.jpg#1	there is a fence behind the merry go round.
+playing19.jpg#2	multiple trees present behind the fence.
+playing20.jpg#0	two kids are playing on the merry go round.
+playing20.jpg#1	grass is present around the merry go round.
+playing20.jpg#2	multiple houses in the neighbourhood.
+playing21.jpg#0	three kids playing on the merry go round.
+playing21.jpg#1	one man is pushing the merry go round.
+playing21.jpg#2	trees present on the grass behind the merry go round.
+playing22.jpg#0	two kids are playing on the merry go round. 
+playing22.jpg#1	one kid is running on sand. 
+playing22.jpg#2	there is a lake present behind the merry go round. 
+playing23.jpg#0	kids are playing on the merry go round.
+playing23.jpg#1	cars are parked in the area.
+playing23.jpg#2	multiple houses in the neighbourhood.
+playing24.jpg#0	kids playing on the merry go round.
+playing24.jpg#1	one kid is pushing the merry go round.
+playing24.jpg#2	trees present behind the merry go round 
+playing25.jpg#0	three kids are sitting on grass.
+playing25.jpg#1	there is bright sunlight.
+playing25.jpg#2	multiple trees present in the park.
+poundfifty_1.jpg#0	a fifty pound currency note.
+poundfifty_1.jpg#1	fifty pound note from the bank of England. 
+poundfifty_1.jpg#2	this note has a value of 50 pounds.
+poundfifty_2.jpg#0	a fifty pound currency note.
+poundfifty_2.jpg#1	fifty pound note from the bank of England.
+poundfifty_2.jpg#2	this note has a value of 50 pounds.
+poundfifty_3.jpg#0	a fifty pound currency note.
+poundfifty_3.jpg#1	fifty pound note from the bank of England.
+poundfifty_3.jpg#2	this note has a value of 50 pounds.
+poundfifty_4.jpg#0	a fifty pound currency note.
+poundfifty_4.jpg#1	fifty pound note from the bank of England.
+poundfifty_4.jpg#2	this note has a value of 50 pounds.
+poundfifty_5.jpg#0	a fifty pound currency note.
+poundfifty_5.jpg#1	fifty pound note from the bank of England.
+poundfifty_5.jpg#2	this note has a value of 50 pounds.
+poundfifty_6.jpg#0	a fifty pound currency note.
+poundfifty_6.jpg#1	fifty pound note from the bank of England.
+poundfifty_6.jpg#2	this note has a value of 50 pounds.
+poundfifty_7.jpg#0	a fifty pound currency note.
+poundfifty_7.jpg#1	fifty pound note from the bank of England.
+poundfifty_7.jpg#2	this note has a value of 50 pounds.
+poundfifty_8.jpg#0	a fifty pound currency note.
+poundfifty_8.jpg#1	fifty pound note from the bank of England.
+poundfifty_8.jpg#2	this note has a value of 50 pounds.
+poundfifty_9.jpg#0	a fifty pound currency note.
+poundfifty_9.jpg#1	fifty pound note from the bank of England.
+poundfifty_9.jpg#2	this note has a value of 50 pounds.
+poundfifty_10.jpg#0	a fifty pound currency note.
+poundfifty_10.jpg#1	fifty pound note from the bank of England.
+poundfifty_10.jpg#2	this note has a value of 50 pounds.
+poundfifty_11.jpg#0	a fifty pound currency note.
+poundfifty_11.jpg#1	fifty pound note from the bank of England.
+poundfifty_11.jpg#2	this note has a value of 50 pounds.
+poundfifty_12.jpg#0	a fifty pound currency note.
+poundfifty_12.jpg#1	fifty pound note from the bank of England.
+poundfifty_12.jpg#2	this note has a value of 50 pounds.
+poundfifty_13.jpg#0	a fifty pound currency note.
+poundfifty_13.jpg#1	fifty pound note from the bank of England.
+poundfifty_13.jpg#2	this note has a value of 50 pounds.
+poundfifty_14.jpg#0	a fifty pound currency note.
+poundfifty_14.jpg#1	fifty pound note from the bank of England.
+poundfifty_14.jpg#2	this note has a value of 50 pounds.
+poundfifty_15.jpg#0	a fifty pound currency note.
+poundfifty_15.jpg#1	fifty pound note from the bank of England.
+poundfifty_15.jpg#2	this note has a value of 50 pounds.
+poundfifty_16.jpg#0	a fifty pound currency note.
+poundfifty_16.jpg#1	fifty pound note from the bank of England.
+poundfifty_16.jpg#2	this note has a value of 50 pounds.
+poundfifty_17.jpg#0	a fifty pound currency note.
+poundfifty_17.jpg#1	fifty pound note from the bank of England.
+poundfifty_17.jpg#2	this note has a value of 50 pounds.
+poundfifty_18.jpg#0	a fifty pound currency note.
+poundfifty_18.jpg#1	fifty pound note from the bank of England.
+poundfifty_18.jpg#2	this note has a value of 50 pounds.
+poundfifty_19.jpg#0	a fifty pound currency note.
+poundfifty_19.jpg#1	fifty pound note from the bank of England.
+poundfifty_19.jpg#2	this note has a value of 50 pounds.
+poundfifty_20.jpg#0	a fifty pound currency note.
+poundfifty_20.jpg#1	fifty pound note from the bank of England.
+poundfifty_20.jpg#2	this note has a value of 50 pounds.
+poundfifty_21.jpg#0	a fifty pound currency note.
+poundfifty_21.jpg#1	fifty pound note from the bank of England.
+poundfifty_21.jpg#2	this note has a value of 50 pounds.
+poundfifty_22.jpg#0	a fifty pound currency note.
+poundfifty_22.jpg#1	fifty pound note from the bank of England.
+poundfifty_22.jpg#2	this note has a value of 50 pounds.
+poundfifty_23.jpg#0	a fifty pound currency note.
+poundfifty_23.jpg#1	fifty pound note from the bank of England.
+poundfifty_23.jpg#2	this note has a value of 50 pounds.
+poundfifty_24.jpg#0	a fifty pound currency note.
+poundfifty_24.jpg#1	fifty pound note from the bank of England.
+poundfifty_24.jpg#2	this note has a value of 50 pounds.
+poundfifty_25.jpg#0	a fifty pound currency note.
+poundfifty_25.jpg#1	fifty pound note from the bank of England.
+poundfifty_25.jpg#2	this note has a value of 50 pounds.
+poundfifty_26.jpg#0	a fifty pound currency note.
+poundfifty_26.jpg#1	fifty pound note from the bank of England.
+poundfifty_26.jpg#2	this note has a value of 50 pounds.
+poundfifty_27.jpg#0	a fifty pound currency note.
+poundfifty_27.jpg#1	fifty pound note from the bank of England.
+poundfifty_27.jpg#2	this note has a value of 50 pounds.
+poundfifty_28.jpg#0	a fifty pound currency note.
+poundfifty_28.jpg#1	fifty pound note from the bank of England.
+poundfifty_28.jpg#2	this note has a value of 50 pounds.
+poundfifty_29.jpg#0	a fifty pound currency note.
+poundfifty_29.jpg#1	fifty pound note from the bank of England.
+poundfifty_29.jpg#2	this note has a value of 50 pounds.
+poundfifty_30.jpg#0	a fifty pound currency note.
+poundfifty_30.jpg#1	fifty pound note from the bank of England.
+poundfifty_30.jpg#2	this note has a value of 50 pounds.
+poundfive_1.jpg#0	A five pound note.
+poundfive_1.jpg#1	A five blue pound note.
+poundfive_1.jpg#2	A blue note of five pound.
+poundfive_2.jpg#0	A five pound note.
+poundfive_2.jpg#1	A five blue pound note.
+poundfive_2.jpg#2	A blue note of five pound.
+poundfive_3.jpg#0	A five pound note.
+poundfive_3.jpg#1	A five blue pound note.
+poundfive_3.jpg#2	A blue note of five pound.
+poundfive_4.jpg#0	A five pound note.
+poundfive_4.jpg#1	A five blue pound note.
+poundfive_4.jpg#2	A blue note of five pound.
+poundfive_5.jpg#0	A five pound note.
+poundfive_5.jpg#1	A five blue pound note.
+poundfive_5.jpg#2	A blue note of five pound.
+poundfive_6.jpg#0	A five pound note.
+poundfive_6.jpg#1	A five blue pound note.
+poundfive_6.jpg#2	A blue note of five pound.
+poundfive_7.jpg#0	A five pound note.
+poundfive_7.jpg#1	A five blue pound note.
+poundfive_7.jpg#2	A blue note of five pound.
+poundfive_8.jpg#0	A five pound note.
+poundfive_8.jpg#1	A five blue pound note.
+poundfive_8.jpg#2	A blue note of five pound.
+poundfive_9.jpg#0	A five pound note.
+poundfive_9.jpg#1	A five blue pound note.
+poundfive_9.jpg#2	A blue note of five pound.
+poundfive_10.jpg#0	A five pound note.
+poundfive_10.jpg#1	A five blue pound note.
+poundfive_10.jpg#2	A blue note of five pound.
+poundfive_11.jpg#0	A five pound note.
+poundfive_11.jpg#1	A five blue pound note.
+poundfive_11.jpg#2	A blue note of five pound.
+poundfive_12.jpg#0	A five pound note.
+poundfive_12.jpg#1	A five blue pound note.
+poundfive_12.jpg#2	A blue note of five pound.
+poundfive_13.jpg#0	A five pound note.
+poundfive_13.jpg#1	A five blue pound note.
+poundfive_13.jpg#2	A blue note of five pound.
+poundfive_14.jpg#0	A five pound note.
+poundfive_14.jpg#1	A five blue pound note.
+poundfive_14.jpg#2	A blue note of five pound.
+poundfive_15.jpg#0	A five pound note.
+poundfive_15.jpg#1	A five blue pound note.
+poundfive_15.jpg#2	A blue note of five pound.
+poundfive_16.jpg#0	A five pound note.
+poundfive_16.jpg#1	A five blue pound note.
+poundfive_16.jpg#2	A blue note of five pound.
+poundfive_17.jpg#0	A five pound note.
+poundfive_17.jpg#1	A five blue pound note.
+poundfive_17.jpg#2	A blue note of five pound.
+poundfive_18.jpg#0	A five pound note.
+poundfive_18.jpg#1	A five blue pound note.
+poundfive_18.jpg#2	A blue note of five pound.
+poundfive_19.jpg#0	A five pound note.
+poundfive_19.jpg#1	A five blue pound note.
+poundfive_19.jpg#2	A blue note of five pound.
+poundfive_20.jpg#0	A five pound note.
+poundfive_20.jpg#1	A five blue pound note.
+poundfive_20.jpg#2	A blue note of five pound.
+poundfive_21.jpg#0	A five pound note.
+poundfive_21.jpg#1	A five blue pound note.
+poundfive_21.jpg#2	A blue note of five pound.
+poundfive_22.jpg#0	A five pound note.
+poundfive_22.jpg#1	A five blue pound note.
+poundfive_22.jpg#2	A blue note of five pound.
+poundfive_23.jpg#0	A five pound note.
+poundfive_23.jpg#1	A five blue pound note.
+poundfive_23.jpg#2	A blue note of five pound.
+poundfive_24.jpg#0	A five pound note.
+poundfive_24.jpg#1	A five blue pound note.
+poundfive_24.jpg#2	A blue note of five pound.
+poundfive_25.jpg#0	A five pound note.
+poundfive_25.jpg#1	A five blue pound note.
+poundfive_25.jpg#2	A blue note of five pound.
+poundfive_26.jpg#0	A five pound note.
+poundfive_26.jpg#1	A five blue pound note.
+poundfive_26.jpg#2	A blue note of five pound.
+poundfive_27.jpg#0	A five pound note.
+poundfive_27.jpg#1	A five blue pound note.
+poundfive_27.jpg#2	A blue note of five pound.
+poundfive_28.jpg#0	A five pound note.
+poundfive_28.jpg#1	A five blue pound note.
+poundfive_28.jpg#2	A blue note of five pound.
+poundfive_29.jpg#0	A five pound note.
+poundfive_29.jpg#1	A five blue pound note.
+poundfive_29.jpg#2	A blue note of five pound.
+poundfive_30.jpg#0	A five pound note.
+poundfive_30.jpg#1	A five blue pound note.
+poundfive_30.jpg#2	A blue note of five pound.
+poundten_1.jpg#0	A ten pound note.
+poundten_1.jpg#1	An orange ten pound note. 
+poundten_1.jpg#2	An orange note of ten pound.
+poundten_2.jpg#0	A ten pound note.
+poundten_2.jpg#1	An orange ten pound note. 
+poundten_2.jpg#2	An orange note of ten pound.
+poundten_3.jpg#0	A ten pound note.
+poundten_3.jpg#1	An orange ten pound note. 
+poundten_3.jpg#2	An orange note of ten pound.
+poundten_4.jpg#0	A ten pound note.
+poundten_4.jpg#1	An orange ten pound note. 
+poundten_4.jpg#2	An orange note of ten pound.
+poundten_5.jpg#0	A ten pound note.
+poundten_5.jpg#1	An orange ten pound note. 
+poundten_5.jpg#2	An orange note of ten pound.
+poundten_6.jpg#0	A ten pound note.
+poundten_6.jpg#1	An orange ten pound note. 
+poundten_6.jpg#2	An orange note of ten pound.
+poundten_7.jpg#0	A ten pound note.
+poundten_7.jpg#1	An orange ten pound note. 
+poundten_7.jpg#2	An orange note of ten pound.
+poundten_8.jpg#0	A ten pound note.
+poundten_8.jpg#1	An orange ten pound note. 
+poundten_8.jpg#2	An orange note of ten pound.
+poundten_9.jpg#0	A ten pound note.
+poundten_9.jpg#1	An orange ten pound note. 
+poundten_9.jpg#2	An orange note of ten pound.
+poundten_10.jpg#0	A ten pound note.
+poundten_10.jpg#1	An orange ten pound note. 
+poundten_10.jpg#2	An orange note of ten pound.
+poundten_11.jpg#0	A ten pound note.
+poundten_11.jpg#1	An orange ten pound note. 
+poundten_11.jpg#2	An orange note of ten pound.
+poundten_12.jpg#0	A ten pound note.
+poundten_12.jpg#1	An orange ten pound note. 
+poundten_12.jpg#2	An orange note of ten pound.
+poundten_13.jpg#0	A ten pound note.
+poundten_13.jpg#1	An orange ten pound note. 
+poundten_13.jpg#2	An orange note of ten pound.
+poundten_14.jpg#0	A ten pound note.
+poundten_14.jpg#1	An orange ten pound note. 
+poundten_14.jpg#2	An orange note of ten pound.
+poundten_15.jpg#0	A ten pound note.
+poundten_15.jpg#1	An orange ten pound note. 
+poundten_15.jpg#2	An orange note of ten pound.
+poundten_16.jpg#0	A ten pound note.
+poundten_16.jpg#1	An orange ten pound note. 
+poundten_16.jpg#2	An orange note of ten pound.
+poundten_17.jpg#0	A ten pound note.
+poundten_17.jpg#1	An orange ten pound note. 
+poundten_17.jpg#2	An orange note of ten pound.
+poundten_18.jpg#0	A ten pound note.
+poundten_18.jpg#1	An orange ten pound note. 
+poundten_18.jpg#2	An orange note of ten pound.
+poundten_19.jpg#0	A ten pound note.
+poundten_19.jpg#1	An orange ten pound note. 
+poundten_19.jpg#2	An orange note of ten pound.
+poundten_20.jpg#0	A ten pound note.
+poundten_20.jpg#1	An orange ten pound note. 
+poundten_20.jpg#2	An orange note of ten pound.
+poundten_21.jpg#0	A ten pound note.
+poundten_21.jpg#1	An orange ten pound note. 
+poundten_21.jpg#2	An orange note of ten pound.
+poundten_22.jpg#0	A ten pound note.
+poundten_22.jpg#1	An orange ten pound note. 
+poundten_22.jpg#2	An orange note of ten pound.
+poundten_23.jpg#0	A ten pound note.
+poundten_23.jpg#1	An orange ten pound note. 
+poundten_23.jpg#2	An orange note of ten pound.
+poundten_24.jpg#0	A ten pound note.
+poundten_24.jpg#1	An orange ten pound note. 
+poundten_24.jpg#2	An orange note of ten pound.
+poundten_25.jpg#0	A ten pound note.
+poundten_25.jpg#1	An orange ten pound note. 
+poundten_25.jpg#2	An orange note of ten pound.
+poundten_26.jpg#0	A ten pound note.
+poundten_26.jpg#1	An orange ten pound note. 
+poundten_26.jpg#2	An orange note of ten pound.
+poundten_27.jpg#0	A ten pound note.
+poundten_27.jpg#1	An orange ten pound note. 
+poundten_27.jpg#2	An orange note of ten pound.
+poundten_28.jpg#0	A ten pound note.
+poundten_28.jpg#1	An orange ten pound note. 
+poundten_29.jpg#2	An orange note of ten pound.
+poundten_30.jpg#0	A ten pound note.
+poundten_30.jpg#1	An orange ten pound note. 
+poundten_30.jpg#2	An orange note of ten pound.
+poundtwenty_1.jpg#0	A twenty pound note.
+poundtwenty_1.jpg#1	A purple twenty pound note.
+poundtwenty_1.jpg#2	A purple note of twenty pound.
+poundtwenty_2.jpg#0	A twenty pound note.
+poundtwenty_2.jpg#1	A purple twenty pound note.
+poundtwenty_2.jpg#2	A purple note of twenty pound.
+poundtwenty_3.jpg#0	A twenty pound note.
+poundtwenty_3.jpg#1	A purple twenty pound note.
+poundtwenty_3.jpg#2	A purple note of twenty pound.
+poundtwenty_4.jpg#0	A twenty pound note.
+poundtwenty_4.jpg#1	A purple twenty pound note.
+poundtwenty_4.jpg#2	A purple note of twenty pound.
+poundtwenty_5.jpg#0	A twenty pound note.
+poundtwenty_5.jpg#1	A purple twenty pound note.
+poundtwenty_5.jpg#2	A purple note of twenty pound.
+poundtwenty_6.jpg#0	A twenty pound note.
+poundtwenty_6.jpg#1	A purple twenty pound note.
+poundtwenty_6.jpg#2	A purple note of twenty pound.
+poundtwenty_7.jpg#0	A twenty pound note.
+poundtwenty_7.jpg#1	A purple twenty pound note.
+poundtwenty_7.jpg#2	A purple note of twenty pound.
+poundtwenty_8.jpg#0	A twenty pound note.
+poundtwenty_8.jpg#1	A purple twenty pound note.
+poundtwenty_8.jpg#2	A purple note of twenty pound.
+poundtwenty_9.jpg#0	A twenty pound note.
+poundtwenty_9.jpg#1	A purple twenty pound note.
+poundtwenty_9.jpg#2	A purple note of twenty pound.
+poundtwenty_10.jpg#0	A twenty pound note.
+poundtwenty_10.jpg#1	A purple twenty pound note.
+poundtwenty_10.jpg#2	A purple note of twenty pound.
+poundtwenty_11.jpg#0	A twenty pound note.
+poundtwenty_11.jpg#1	A purple twenty pound note.
+poundtwenty_11.jpg#2	A purple note of twenty pound.
+poundtwenty_12.jpg#0	A twenty pound note.
+poundtwenty_12.jpg#1	A purple twenty pound note.
+poundtwenty_12.jpg#2	A purple note of twenty pound.
+poundtwenty_13.jpg#0	A twenty pound note.
+poundtwenty_13.jpg#1	A purple twenty pound note.
+poundtwenty_13.jpg#2	A purple note of twenty pound.
+poundtwenty_14.jpg#0	A twenty pound note.
+poundtwenty_14.jpg#1	A purple twenty pound note.
+poundtwenty_14.jpg#2	A purple note of twenty pound.
+poundtwenty_15.jpg#0	A twenty pound note.
+poundtwenty_15.jpg#1	A purple twenty pound note.
+poundtwenty_15.jpg#2	A purple note of twenty pound.
+poundtwenty_16.jpg#0	A twenty pound note.
+poundtwenty_16.jpg#1	A purple twenty pound note.
+poundtwenty_16.jpg#2	A purple note of twenty pound.
+poundtwenty_17.jpg#0	A twenty pound note.
+poundtwenty_17.jpg#1	A purple twenty pound note.
+poundtwenty_17.jpg#2	A purple note of twenty pound.
+poundtwenty_18.jpg#0	A twenty pound note.
+poundtwenty_18.jpg#1	A purple twenty pound note.
+poundtwenty_18.jpg#2	A purple note of twenty pound.
+poundtwenty_19.jpg#0	A twenty pound note.
+poundtwenty_19.jpg#1	A purple twenty pound note.
+poundtwenty_19.jpg#2	A purple note of twenty pound.
+poundtwenty_20.jpg#0	A twenty pound note.
+poundtwenty_20.jpg#1	A purple twenty pound note.
+poundtwenty_20.jpg#2	A purple note of twenty pound.
+poundtwenty_21.jpg#0	A twenty pound note.
+poundtwenty_21.jpg#1	A purple twenty pound note.
+poundtwenty_21.jpg#2	A purple note of twenty pound.
+poundtwenty_22.jpg#0	A twenty pound note.
+poundtwenty_22.jpg#1	A purple twenty pound note.
+poundtwenty_22.jpg#2	A purple note of twenty pound.
+poundtwenty_23.jpg#0	A twenty pound note.
+poundtwenty_23.jpg#1	A purple twenty pound note.
+poundtwenty_23.jpg#2	A purple note of twenty pound.
+poundtwenty_24.jpg#0	A twenty pound note.
+poundtwenty_24.jpg#1	A purple twenty pound note.
+poundtwenty_24.jpg#2	A purple note of twenty pound.
+poundtwenty_25.jpg#0	A twenty pound note.
+poundtwenty_25.jpg#1	A purple twenty pound note.
+poundtwenty_25.jpg#2	A purple note of twenty pound.
+poundtwenty_26.jpg#0	A twenty pound note.
+poundtwenty_26.jpg#1	A purple twenty pound note.
+poundtwenty_26.jpg#2	A purple note of twenty pound.
+poundtwenty_27.jpg#0	A twenty pound note.
+poundtwenty_27.jpg#1	A purple twenty pound note.
+poundtwenty_27.jpg#2	A purple note of twenty pound.
+poundtwenty_28.jpg#0	A twenty pound note.
+poundtwenty_28.jpg#1	A purple twenty pound note.
+poundtwenty_28.jpg#2	A purple note of twenty pound.
+poundtwenty_29.jpg#0	A twenty pound note.
+poundtwenty_29.jpg#1	A purple twenty pound note.
+poundtwenty_29.jpg#2	A purple note of twenty pound.
+poundtwenty_30.jpg#0	A twenty pound note.
+poundtwenty_30.jpg#1	A purple twenty pound note.
+poundtwenty_30.jpg#2	A purple note of twenty pound.
+push1.jpg#0	A yellow push button.
+push1.jpg#1	A yellow push button in front of the pillar.
+push1.jpg#2	A yellow push button with a direction board.
+push2.jpg#0	A yellow push button.
+push2.jpg#1	Push button in front of the pillar.
+push2.jpg#2	Push button to cross the road.
+push3.jpg#0	A yellow push button.
+push3.jpg#1	A yellow push button to cross the road.
+push3.jpg#2	Push button with information on when to cross the road.
+push4.jpg#0	A black push button.
+push4.jpg#1	A black push button attached on a pillar.
+push4.jpg#2	A push button to cross the road.
+push5.jpg#0	A black push button with a warning.
+push5.jpg#1	A black push button attached on a pillar.
+push5.jpg#2	A push button to cross the road.
+push6.jpg#0	A yellow push button.
+push6.jpg#1	A yellow push button in front of the pillar.
+push6.jpg#2	A yellow push button attached to the red pillar.
+push7.jpg#0	A yellow push button.
+push7.jpg#1	A yellow push button in front of the pillar.
+push7.jpg#2	A yellow push button in front of the pillar to cross the road.
+push8.jpg#0	A yellow push button with a sticker.
+push8.jpg#1	A yellow push button in front of the pillar.
+push8.jpg#2	A yellow push button in front of the pillar to cross the road.
+push9.jpg#0	A yellow push button with an information board.
+push9.jpg#1	A yellow push button in front of the pillar.
+push9.jpg#2	A yellow push button in front of the pillar to cross the road.
+push10.jpg#0	A push button.
+push10.jpg#1	A push button in front of the pillar. 
+push10.jpg#2	A push button to cross the road.
+push11.jpg#0	A push button.
+push11.jpg#1	A push button in front of the pillar. 
+push11.jpg#2	A push button to cross the road.
+push12.jpg#0	A push button with an information board.
+push12.jpg#1	A push button in front of the pillar.
+push12.jpg#2	A push button in front of the pillar to cross the road.
+push13.jpg#0	A yellow push button with an information board.
+push13.jpg#1	A yellow push button in front of the pillar.
+push13.jpg#2	A yellow push button in front of the pillar to cross the road.
+push14.jpg#0	A yellow push button with a sticker.
+push14.jpg#1	A yellow push button in front of the pillar.
+push14.jpg#2	A yellow push button in front of the pillar to cross the road.
+push15.jpg#0	A black push button with an information board.
+push15.jpg#1	A black push button attached on a pillar.
+push15.jpg#2	Push button to cross the road.
+push16.jpg#0	A black push button with an information board.
+push16.jpg#1	A black push button attached on a pillar.
+push16.jpg#2	Push button to cross the road.
+push17.jpg#0	A black right directed push button with an information board.
+push17.jpg#1	A black right directed push button attached on a pillar.
+push17.jpg#2	Push button to cross the road.
+push18.jpg#0	A grey right directed push button with an information board.
+push18.jpg#1	A grey right directed push button attached on a pillar.
+push18.jpg#2	Push button to cross the road.
+push19.jpg#0	A yellow push button with a sticker.
+push19.jpg#1	A yellow push button in front of the pillar.
+push19.jpg#2	A yellow push button in front of the pillar to cross the road.
+push20.jpg#0	A black right push button.
+push20.jpg#1	A black push button attached on a pillar.
+push20.jpg#2	A push button to cross the road.
+push21.jpg#0	A push button.
+push21.jpg#1	A push button in front of the pillar. 
+push21.jpg#2	A push button to cross the road in the right direction.
+push22.jpg#0	A yellow push button with directions in a foreign language.
+push22.jpg#1	A push button to cross the road.
+push22.jpg#2	A push button with an informative board.
+push23.jpg#0	A black push button with an information board.
+push23.jpg#1	A black push button attached on a pillar.
+push23.jpg#2	Push button to cross the road.
+push24.jpg#0	A black right directed push button with an information board.
+push24.jpg#1	A black right directed push button attached on a pillar.
+push24.jpg#2	Push button to cross the road.
+push25.jpg#0	A black left directed push button with an information board.
+push25.jpg#1	A black left directed push button attached on a pillar.
+push25.jpg#2	Push button to cross the road.
+push26.jpg#0	A big grey push button.
+push26.jpg#1	Push button to cross the road.
+push26.jpg#2	A grey push button attached on a pillar.
+push27.jpg#0	A big grey push button.
+push27.jpg#1	Push button to cross the road.
+push27.jpg#2	A grey push button attached on a pillar.
+push28.jpg#0	A push button with an information board.
+push28.jpg#1	A push button in front of the pillar.
+push28.jpg#2	A push button in front of the pillar to cross the road.
+push29.jpg#0	A black right directed push button with an information board.
+push29.jpg#1	A black right directed push button attached on a pillar.
+push29.jpg#2	Push button to cross the road.
+push30.jpg#0	A small yellow push button.
+push30.jpg#1	Push button to cross the road.
+push30.jpg#2	A small push button with an information board.
+redsig1.jpg#0	A red sign display.
+redsig1.jpg#1	A red display with a black background.
+redsig1.jpg#2	A red display indicating to stop.
+redsig2.jpg#0	A red sign display.
+redsig2.jpg#1	A red sign display with a black background.
+redsig2.jpg#2	A red sign display indicating to stop.
+redsig3.jpg#0	A red sign display with a push button.
+redsig3.jpg#1	A red sign display with a black background.
+redsig3.jpg#2	A red sign display indicating to stop with a push button to change signal.
+redsig4.jpg#0	Red display to stop.
+redsig4.jpg#1	A red sign display with a black background.
+redsig4.jpg#2	A red sign display indicating to stop with a push button to change signal.
+redsig5.jpg#0	A red sign display with a push button.
+redsig5.jpg#1	A red sign display with a black background to stop.
+redsig5.jpg#2	Red display to stop moving.
+redsig6.jpg#0	Red display to stop moving.
+redsig6.jpg#1	A red stop display with a black background.
+redsig6.jpg#2	A red stop display.
+redsig7.jpg#0	A red hand display.
+redsig7.jpg#1	Red display to stop moving.
+redsig7.jpg#2	A red stop display with a black background.
+redsig8.jpg#0	A red display with a black background.
+redsig8.jpg#1	A red display indicating to stop.
+redsig8.jpg#2	A red display to stop.
+redsig9.jpg#0	A red sign display with a black background.
+redsig9.jpg#1	Red display to stop.
+redsig9.jpg#2	Stop.
+redsig10.jpg#0	Red hand display to stop.
+redsig10.jpg#1	Stop moving.
+redsig10.jpg#2	Red hand display with a black background.
+redsig11.jpg#0	A red stop display with a black background.
+redsig11.jpg#1	A red display with a black background.
+redsig11.jpg#2	A red display indicating to stop.
+redsig12.jpg#0	A red display with a black background.
+redsig12.jpg#1	A red display indicating to stop.
+redsig12.jpg#2	Stop moving.
+redsig13.jpg#0	A red stop display with a black background.
+redsig13.jpg#1	A red display with a black background.
+redsig13.jpg#2	A red display indicating to stop.
+redsig14.jpg#0	Stop.
+redsig14.jpg#1	Red hand display to stop.
+redsig14.jpg#2	Stop moving.
+redsig15.jpg#0	A red hand display.
+redsig15.jpg#1	Red display to stop moving.
+redsig15.jpg#2	A red stop display with a black background.
+redsig16.jpg#0	Red hand display with a black background.
+redsig16.jpg#1	A red stop display with a black background.
+redsig16.jpg#2	A red display with a black background.
+redsig17.jpg#0	A red stop display with a black background.
+redsig17.jpg#1	A red display with a black background.
+redsig17.jpg#2	A red display indicating to stop.
+redsig18.jpg#0	A red stop display with a black background.
+redsig18.jpg#1	A red display with a black background.
+redsig18.jpg#2	A red display indicating to stop.
+redsig19.jpg#0	Stop moving.
+redsig19.jpg#1	A red stop display with a black background.
+redsig19.jpg#2	A red display with a black background.
+redsig20.jpg#0	A red stop display with a black background.
+redsig20.jpg#1	Stop moving.
+redsig20.jpg#2	A red display indicating to stop.
+redsig21.jpg#0	
+redsig21.jpg#1	A red stop display with a black background.
+redsig21.jpg#2	A red display indicating to stop.
+redsig22.jpg#0	Stop moving.
+redsig22.jpg#1	Stop.
+redsig22.jpg#2	A red stop display with a black background.
+redsig23.jpg#0	Red display to stop.
+redsig23.jpg#1	A red sign display indicating to stop with a push button to change signal.
+redsig23.jpg#2	Stop display with a push button.
+redsig24.jpg#0	Red hand display to stop.
+redsig24.jpg#1	A red display indicating to stop.
+redsig24.jpg#2	Red display to stop.
+redsig25.jpg#0	Red hand display to stop.
+redsig25.jpg#1	A red sign display indicating to stop with a push button to change signal.
+redsig25.jpg#2	Red display to stop.
+redsig26.jpg#0	Red display to stop.
+redsig26.jpg#1	Red hand display to stop.
+redsig26.jpg#2	A red sign display indicating to stop with a push button to change signal.
+redsig27.jpg#0	Red display to stop.
+redsig27.jpg#1	A red stop display with a black background.
+redsig27.jpg#2	A red display indicating to stop.
+redsig28.jpg#0	Stop moving.
+redsig28.jpg#1	Red hand display to stop.
+redsig28.jpg#2	A red sign display indicating to stop with a push button to change signal.
+redsig29.jpg#0	Red display to stop.
+redsig29.jpg#1	A red stop display with a black background.
+redsig29.jpg#2	Stop.
+redsig30.jpg#0	Stop moving.
+redsig30.jpg#1	Stop.
+redsig30.jpg#2	A red stop display with a black background.
+stairsdown_1.jpg#0	Stairs to go down with railings.
+stairsdown_1.jpg#1	Stairs to go down.
+stairsdown_1.jpg#2	Stairs to go down so be careful.
+stairsdown_2.jpg#0	Stairs to go down with railings on both sides.
+stairsdown_2.jpg#1	Stairs to go down with railings.
+stairsdown_2.jpg#2	Stairs to go down so be careful.
+stairsdown_3.jpg#0	Wooden stairs to go down with railings on both sides.
+stairsdown_3.jpg#1	Wooden Stairs to go down.
+stairsdown_3.jpg#2	Stairs to go down so be careful.
+stairsdown_4.jpg#0	Stairs to go down with railings.
+stairsdown_4.jpg#1	Stairs to go down with railings on both sides.
+stairsdown_4.jpg#2	Stairs to go down so be careful.
+stairsdown_5.jpg#0	Stairs to go down without railings.
+stairsdown_5.jpg#1	Stairs to go down without railings on both sides.
+stairsdown_5.jpg#2	Stairs to go down so be careful.
+stairsdown_6.jpg#0	Stairs to go down with railings on both sides.
+stairsdown_6.jpg#1	Stairs to go down with a carpet.
+stairsdown_6.jpg#2	Stairs to go down so be careful.
+stairsdown_7.jpg#0	Stairs to go down with railings on the left side.
+stairsdown_7.jpg#1	Stairs to go down.
+stairsdown_7.jpg#2	Stairs to go down so be careful.
+stairsdown_8.jpg#0	Stairs to go down with railings.
+stairsdown_8.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_8.jpg#2	Stairs to go down so be careful.
+stairsdown_9.jpg#0	Stairs to go down with railings on the right side.
+stairsdown_9.jpg#1	Stairs to go down.
+stairsdown_9.jpg#2	Stairs to go down so be careful.
+stairsdown_10.jpg#0	Stairs to go down with railings.
+stairsdown_10.jpg#1	Stairs to go down with railings on the right side.
+stairsdown_10.jpg#2	Stairs to go down so be careful.
+stairsdown_11.jpg#0	Stairs to go down with railings.
+stairsdown_11.jpg#1	Stairs to go down with railings on the right side.
+stairsdown_11.jpg#2	Stairs to go down so be careful.
+stairsdown_12.jpg#0	Stairs to go down with railings on the right side.
+stairsdown_12.jpg#1	Stairs to go down.
+stairsdown_12.jpg#2	Stairs to go down so be careful.
+stairsdown_13.jpg#0	Stairs to go down with railings.
+stairsdown_13.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_13.jpg#2	Stairs to go down so be careful.
+stairsdown_14.jpg#0	Stairs to go down with railings on both the sides.
+stairsdown_14.jpg#1	Stairs to go down.
+stairsdown_14.jpg#2	Stairs to go down so be careful.
+stairsdown_15.jpg#0	Stairs to go down with railings.
+stairsdown_15.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_15.jpg#2	Stairs to go down so be careful.
+stairsdown_16.jpg#0	Stairs to go down with railings.
+stairsdown_16.jpg#1	Stairs to go down with railings on the right side.
+stairsdown_16.jpg#2	Stairs to go down so be careful.
+stairsdown_17.jpg#0	Stairs to go down with railings.
+stairsdown_17.jpg#1	Stairs to go down with railings on both the sides.
+stairsdown_17.jpg#2	Stairs to go down so be careful.
+stairsdown_18.jpg#0	Stairs to go down with railings.
+stairsdown_18.jpg#1	Stairs to go down.
+stairsdown_18.jpg#2	Stairs to go down so be careful.
+stairsdown_19.jpg#0	Stairs to go down with railings.
+stairsdown_19.jpg#1	Stairs to go down.
+stairsdown_19.jpg#2	Stairs to go down so be careful.
+stairsdown_20.jpg#0	Stairs to go down with railings on the right side.
+stairsdown_20.jpg#1	Stairs to go down.
+stairsdown_20.jpg#2	Stairs to go down so be careful.
+stairsdown_21.jpg#0	Stairs to go down with railings.
+stairsdown_21.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_21.jpg#2	Stairs to go down so be careful.
+stairsdown_22.jpg#0	Stairs to go down with railings.
+stairsdown_22.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_22.jpg#2	Stairs to go down so be careful.
+stairsdown_23.jpg#0	Stairs to go down with railings.
+stairsdown_23.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_23.jpg#2	Stairs to go down so be careful.
+stairsdown_24.jpg#0	Stairs to go down with railings.
+stairsdown_24.jpg#1	Stairs to go down.
+stairsdown_24.jpg#2	Stairs to go down so be careful.
+stairsdown_25.jpg#0	Circular stairs to go down with railings.
+stairsdown_25.jpg#1	Circular stairs to go down.
+stairsdown_25.jpg#2	Circular stairs to go down so be careful.
+stairsdown_26.jpg#0	Stairs to go down with railings.
+stairsdown_26.jpg#1	Stairs to go down with railings on the right side.
+stairsdown_26.jpg#2	Stairs to go down so be careful.
+stairsdown_27.jpg#0	Stairs to go down with railings.
+stairsdown_27.jpg#1	Stairs to go down with railings on the left side.
+stairsdown_27.jpg#2	Stairs to go down so be careful.
+stairsdown_28.jpg#0	Stairs to go down with railings.
+stairsdown_28.jpg#1	Stairs to go down.
+stairsdown_28.jpg#2	Stairs to go down so be careful.
+stairsdown_29.jpg#0	Stairs to go down with railings on the left side.
+stairsdown_29.jpg#1	Stairs to go down.
+stairsdown_29.jpg#2	Stairs to go down so be careful.
+stairsdown_30.jpg#0	Stairs to go down with railings.
+stairsdown_30.jpg#1	Stairs to go down.
+stairsdown_30.jpg#2	Stairs to go down so be careful.
+stairsup_1.jpg#0	Stairs to go up.
+stairsup_1.jpg#1	Stairs to go up with railings.
+stairsup_1.jpg#2	Stairs to go up so be careful.
+stairsup_2.jpg#0	Stairs to go up with railings.
+stairsup_2.jpg#1	Stairs to go up with railings on both sides.
+stairsup_2.jpg#2	Stairs to go up so be careful.
+stairsup_3.jpg#0	Stairs to go up.
+stairsup_3.jpg#1	Stairs to go up with railings on right side.
+stairsup_3.jpg#2	Stairs to go up so be careful.
+stairsup_4.jpg#0	Stairs to go up with railings on left side.
+stairsup_4.jpg#1	Stairs to go up with railings.
+stairsup_4.jpg#2	Stairs to go up so be careful.
+stairsup_5.jpg#0	Stairs to go up.
+stairsup_5.jpg#1	Stairs to go up with railings on left side.
+stairsup_5.jpg#2	Stairs to go up so be careful.
+stairsup_6.jpg#0	Stairs to go up with railings on left side.
+stairsup_6.jpg#1	Stairs to go up with railings.
+stairsup_6.jpg#2	Stairs to go up so be careful.
+stairsup_7.jpg#0	Stairs to go up.
+stairsup_7.jpg#1	Stairs to go up with railings on left side.
+stairsup_7.jpg#2	Stairs to go up so be careful.
+stairsup_8.jpg#0	Stairs to go up.
+stairsup_8.jpg#1	Stairs to go up with railings.
+stairsup_8.jpg#2	Stairs to go up so be careful.
+stairsup_9.jpg#0	Stairs to go up.
+stairsup_9.jpg#1	Stairs to go up with railings on both sides.
+stairsup_9.jpg#2	Stairs to go up so be careful.
+stairsup_10.jpg#0	Stairs to go up with railings on the right side.
+stairsup_10.jpg#1	Stairs to go up with railings.
+stairsup_10.jpg#2	Stairs to go up so be careful.
+stairsup_11.jpg#0	Stairs to go up with railings on the left side.
+stairsup_11.jpg#1	Stairs to go up so be careful.
+stairsup_11.jpg#2	Stairs to go up with railings.
+stairsup_12.jpg#0	Stairs to go up so be careful.
+stairsup_12.jpg#1	Stairs to go up.
+stairsup_12.jpg#2	Stairs to go up with railings.
+stairsup_13.jpg#0	Stairs to go up so be careful.
+stairsup_13.jpg#1	Stairs to go up.
+stairsup_13.jpg#2	Stairs to go up with railings on both sides.
+stairsup_14.jpg#0	Stairs to go up so be careful.
+stairsup_14.jpg#1	Stairs to go up.
+stairsup_14.jpg#2	Stairs to go up with railings.
+stairsup_15.jpg#0	Stairs to go up so be careful.
+stairsup_15.jpg#1	Stairs to go up.
+stairsup_15.jpg#2	Stairs to go up with railings.
+stairsup_16.jpg#0	Stairs to go up so be careful.
+stairsup_16.jpg#1	Stairs to go up.
+stairsup_16.jpg#2	Stairs to go up with railings on right side.
+stairsup_17.jpg#0	Stairs to go up so be careful.
+stairsup_17.jpg#1	Stairs to go up.
+stairsup_17.jpg#2	Stairs to go up with railings on the right side.
+stairsup_18.jpg#0	Stairs to go up so be careful.
+stairsup_18.jpg#1	Stairs to go up with railings on the right side.
+stairsup_18.jpg#2	Stairs to go up with railings.
+stairsup_19.jpg#0	Stairs to go up so be careful.
+stairsup_19.jpg#1	Stairs to go up.
+stairsup_19.jpg#2	Stairs to go up with railings on the left side.
+stairsup_20.jpg#0	Stairs to go up.
+stairsup_20.jpg#1	Stairs to go up with railings.
+stairsup_20.jpg#2	Stairs to go up so be careful.
+stairsup_21.jpg#0	Stairs to go up.
+stairsup_21.jpg#1	Stairs to go up with railings.
+stairsup_21.jpg#2	Stairs to go up so be careful.
+stairsup_22.jpg#0	Steps to go up.
+stairsup_22.jpg#1	Steps to go up so be careful.
+stairsup_22.jpg#2	Small steps to go up.
+stairsup_23.jpg#0	Three steps to go up so be careful.
+stairsup_23.jpg#1	Steps to go up.
+stairsup_23.jpg#2	Three small steps to go up.
+stairsup_24.jpg#0	Stairs to go up so be careful.
+stairsup_24.jpg#1	Stairs to go up.
+stairsup_24.jpg#2	Stairs to go up with railings.
+stairsup_25.jpg#0	Stairs to go up so be careful.
+stairsup_25.jpg#1	Stairs to go up.
+stairsup_25.jpg#2	Stairs to go up with railings.
+stairsup_26.jpg#0	Three steps to go up so be careful.
+stairsup_26.jpg#1	Steps to go up.
+stairsup_26.jpg#2	Three small steps to go up.
+stairsup_27.jpg#0	Steps to go up so be careful.
+stairsup_27.jpg#1	Stone steps to go up.
+stairsup_27.jpg#2	Stone steps to climb up.
+stairsup_28.jpg#0	Stairs to go up so be careful.
+stairsup_28.jpg#1	Stairs to go up.
+stairsup_28.jpg#2	Stairs to go up with railings.
+stairsup_29.jpg#0	Steps to go up.
+stairsup_29.jpg#1	Steps to go up so be careful.
+stairsup_29.jpg#2	Small steps to go up.
+stairsup_30.jpg#0	Stairs to go up so be careful.
+stairsup_30.jpg#1	Stairs to go up.
+stairsup_30.jpg#2	Stairs to go up with railings on the right side.
+tactile1.jpg#0	Yellow tactiles on the footpath.
+tactile1.jpg#1	Tactiles on the footpath.
+tactile1.jpg#2	Tactiles pavement.
+tactile2.jpg#0	Yellow tactiles on the footpath.
+tactile2.jpg#1	Tactiles on the footpath.
+tactile2.jpg#2	Tactiles pavement.
+tactile3.jpg#0	Yellow tactiles on the footpath.
+tactile3.jpg#1	Tactiles on the footpath.
+tactile3.jpg#2	Tactiles pavement.
+tactile4.jpg#0	Yellow tactiles on the footpath.
+tactile4.jpg#1	Tactiles on the footpath.
+tactile4.jpg#2	Tactiles pavement.
+tactile5.jpg#0	Yellow tactiles on the footpath.
+tactile5.jpg#1	Tactiles on the footpath.
+tactile5.jpg#2	Tactiles pavement with metallic dividers.
+tactile6.jpg#0	Red tactiles on the footpath.
+tactile6.jpg#1	Tactiles on the footpath.
+tactile6.jpg#2	Tactiles pavement.
+tactile7.jpg#0	Yellow tactiles on the footpath.
+tactile7.jpg#1	Tactiles on the footpath.
+tactile7.jpg#2	Tactiles pavement.
+tactile8.jpg#0	Yellow tactiles on the footpath.
+tactile8.jpg#1	Tactiles on the footpath.
+tactile8.jpg#2	Tactiles pavement before zebra crossing.
+tactile9.jpg#0	Yellow tactiles on the footpath.
+tactile9.jpg#1	Tactiles on the footpath.
+tactile9.jpg#2	Tactiles pavement.
+tactile10.jpg#0	Yellow tactiles on the footpath.
+tactile10.jpg#1	Tactiles on the footpath.
+tactile10.jpg#2	Tactiles pavement.
+tactile11.jpg#0	Yellow tactiles on the footpath.
+tactile11.jpg#1	Tactiles on the footpath.
+tactile11.jpg#2	Tactiles pavement.
+tactile12.jpg#0	White tactiles on the footpath.
+tactile12.jpg#1	Tactiles on the footpath near bicycle spot.
+tactile12.jpg#2	Tactiles pavement.
+tactile13.jpg#0	White tactiles on the footpath.
+tactile13.jpg#1	Tactiles on the footpath.
+tactile13.jpg#2	Tactiles pavement near bicycle parking.
+tactile14.jpg#0	Yellow tactiles on the footpath.
+tactile14.jpg#1	Tactiles on the footpath.
+tactile14.jpg#2	Tactiles pavement.
+tactile15.jpg#0	Yellow tactiles on the footpath.
+tactile15.jpg#1	Tactiles on the footpath.
+tactile15.jpg#2	Tactiles pavement.
+tactile17.jpg#0	Yellow tactiles on the footpath.
+tactile17.jpg#1	Tactiles on the footpath.
+tactile17.jpg#2	Tactiles pavement.
+tactile18.jpg#0	Yellow tactiles on the footpath.
+tactile18.jpg#1	Tactiles pavement near the bicycle parking spot.
+tactile18.jpg#2	Tactiles pavement.
+tactile19.jpg#0	Yellow tactiles on the footpath.
+tactile19.jpg#1	Tactiles on the footpath.
+tactile19.jpg#2	Tactiles pavement.
+tactile20.jpg#0	Yellow tactiles on the footpath.
+tactile20.jpg#1	Tactiles on the footpath.
+tactile20.jpg#2	Tactiles pavement near the bicycle parking spot.
+tactile21.jpg#0	Tactiles pavement.
+tactile21.jpg#1	Yellow tactiles on the footpath.
+tactile21.jpg#2	Tactiles on the footpath.
+tactile22.jpg#0	Tactiles pavement.
+tactile22.jpg#1	Yellow tactiles on the footpath.
+tactile22.jpg#2	Tactiles on the footpath.
+tactile23.jpg#0	Orange tactiles pavement leading to the stairs.
+tactile23.jpg#1	Orange tactiles on the footpath.
+tactile23.jpg#2	Tactiles on the footpath.
+tactile24.jpg#0	Tactiles pavement.
+tactile24.jpg#1	Yellow tactiles on the footpath.
+tactile24.jpg#2	Tactiles on the footpath.
+tactile25.jpg#0	Tactiles pavement.
+tactile25.jpg#1	Yellow tactiles on the footpath.
+tactile25.jpg#2	Tactiles on the footpath.
+tactile26.jpg#0	Tactiles pavement.
+tactile26.jpg#1	Yellow tactiles on the footpath.
+tactile26.jpg#2	Tactiles on the footpath.
+tactile27.jpg#0	Tactiles pavement.
+tactile27.jpg#1	White tactiles on the footpath.
+tactile27.jpg#2	Tactiles on the footpath.
+tactile28.jpg#0	Tactiles pavement.
+tactile28.jpg#1	Grey tactiles on the footpath.
+tactile28.jpg#2	Tactiles on the footpath.
+tactile29.jpg#0	Tactiles pavement.
+tactile29.jpg#1	Yellow tactiles on the footpath.
+tactile29.jpg#2	Tactiles on the footpath.
+tactile30.jpg#0	Tactiles pavement.
+tactile30.jpg#1	Grey tactiles on the footpath.
+tactile30.jpg#2	Tactiles on the footpath.
+trash1.jpg#0	A green trashbin in the front.
+trash1.jpg#1	A green trashbin is attached to the pillar.
+trash1.jpg#2	A trashbin to collect only recyclable trash.
+trash2.jpg#0	Trashbins are in the front.
+trash2.jpg#1	There are multiple trashbins in the left side.
+trash2.jpg#2	Multiple trashbins to collect various trash.
+trash3.jpg#0	There are multiple trashbins in the left side.
+trash3.jpg#1	There is a blue trashbin to collect plastic items.
+trash3.jpg#2	There is a green trashbin to collect recyclable items.
+trash4.jpg#0	Green trashbins are in the front.
+trash4.jpg#1	Portable green trashbins are kept beside the footpath.
+trash4.jpg#2	Green trashbins are kept to collect only recyclable trash.
+trash5.jpg#0	Blue trashbins are in the front.
+trash5.jpg#1	Portable blue trashbins are kept beside the footpath.
+trash5.jpg#2	Blue trashbins are kept to collect only plastic trash.
+trash6.jpg#0	There is a trashbin in the right side.
+trash6.jpg#1	There is a black trashbin to collect garbage.
+trash6.jpg#2	There is a black trashbin infront of a tree to collect garbage.
+trash7.jpg#0	There is a trashbin in the left side.
+trash7.jpg#1	There is a black trashbin to collect garbage.
+trash7.jpg#2	There is a black trashbin on the footpath to collect garbage.
+trash8.jpg#0	There is a trashbin in the right side.
+trash8.jpg#1	There is a black trashbin to collect garbage.
+trash8.jpg#2	There is a black trashbin on the footpath to collect garbage.
+trash9.jpg#0	Portable trashbins are kept in the front.
+trash9.jpg#1	There are multiple portable trashbins in the left side.
+trash9.jpg#2	Multiple trashbins are kept on the footpath to collect various trash.
+trash10.jpg#0	There is a trashbin in the front on the footpath.
+trash10.jpg#1	There is a black trashbin to collect garbage.
+trash10.jpg#2	There is a black trashbin infront of trees to collect garbage.
+trash11.jpg#0	There is a trashbin in the front.
+trash11.jpg#1	There is a black trashbin to collect garbage.
+trash11.jpg#2	There is a black trashbin on the footpath to collect garbage.
+trash12.jpg#0	There are multiple trashbins on the right side.
+trash12.jpg#1	There is a blue trashbin to collect plastic items.
+trash12.jpg#2	There is a green trashbin to collect recyclable items.
+trash13.jpg#0	There is a trashbin in front of the footpath's metal gate.
+trash13.jpg#1	There is a black trashbin to collect garbage.
+trash13.jpg#2	There is a black trashbin on the footpath to collect garbage.
+trash14.jpg#0	A green trashbin is in the front.
+trash14.jpg#1	A green trashbin is in the middle of the house pathway.
+trash14.jpg#2	A green trashbin to collect only recyclable trash.
+trash15.jpg#0	A green trashbin in the front and to your right side.
+trash15.jpg#1	A green trashbin is on the footpath.
+trash15.jpg#2	A green trashbin to collect only recyclable trash.
+trash16.jpg#0	Portable trashbins are kept in the front.
+trash16.jpg#1	There are multiple portable trashbins in the left side.
+trash16.jpg#2	Multiple trashbins are kept on the footpath to collect various trash.
+trash17.jpg#0	Portable trashbins are kept in front of the windows.
+trash17.jpg#1	There are multiple portable trashbins to your left side.
+trash17.jpg#2	Multiple trashbins are kept on the footpath to collect various trash.
+trash18.jpg#0	There is a trashbin in the front on the footpath.
+trash18.jpg#1	There is a grey trashbin to collect garbage.
+trash18.jpg#2	There is a grey trashbin infront of a bench to collect garbage.
+trash19.jpg#0	Blue trashbins are in the front.
+trash19.jpg#1	Portable blue trashbins are kept in the corner of every footpath.
+trash19.jpg#2	Blue trashbins are kept to collect only plastic trash.
+trash20.jpg#0	Blue trashbins are in the front and to your left side.
+trash20.jpg#1	Portable blue trashbins are kept in front of every house window.
+trash20.jpg#2	Blue trashbins are kept to collect only plastic trash.
+trash21.jpg#0	There is a green trashbin to collect recyclable items.
+trash21.jpg#1	There is a trashbin in front of the footpath's metal gate.
+trash21.jpg#2	A green trashbin to collect only recyclable trash.
+trash22.jpg#0	Portable trashbins are kept in the front.
+trash22.jpg#1	There are multiple portable trashbins in the left side.
+trash22.jpg#2	Multiple trashbins are kept on the footpath to collect various trash.
+trash23.jpg#0	A green trashbin is in the front and it is to your left side.
+trash23.jpg#1	A green trashbin is on the footpath.
+trash23.jpg#2	A green trashbin to collect only recyclable trash.
+trash24.jpg#0	Portable trashbins are kept in the front.
+trash24.jpg#1	There are two blue portable trashbins kept together.
+trash24.jpg#2	Two trashbins are kept on the footpath to collect various trash.
+trash25.jpg#0	A green trashbin is in the front and is to your right side.
+trash25.jpg#1	A green trashbin is on the footpath.
+trash25.jpg#2	A green trashbin to collect only recyclable trash.
+trash26.jpg#0	There is a trashbin in the front on the footpath.
+trash26.jpg#1	There is a grey trashbin to collect garbage.
+trash26.jpg#2	There is a grey trashbin infront of a bush to collect garbage.
+trash27.jpg#0	There is a trashbin in the front on the footpath.
+trash27.jpg#1	There is a red trashbin to collect garbage.
+trash27.jpg#2	There is a red trashbin which is portable.
+trash28.jpg#0	A green trashbin is in the front.
+trash28.jpg#1	Portable green trashbin is kept beside the metal gate.
+trash28.jpg#2	Green trashbins are kept to collect only recyclable trash.
+trash29.jpg#0	Portable trashbins are kept in the front.
+trash29.jpg#1	There are two black portable trashbins kept together.
+trash29.jpg#2	Two trashbins are kept on the footpath to collect various trash.
+trash30.jpg#0	There are multiple trashbins on the right side.
+trash30.jpg#1	There is a blue trashbin to collect plastic items.
+trash30.jpg#2	There is a black trashbin infront of a compound to collect garbage.
+wait1.jpg#0	There are two men sitting on the waiting bench.
+wait1.jpg#1	There are two people talking to each other at the bus stop while waiting for a bus.
+wait1.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait2.jpg#0	There are two women sitting on the bench and are waiting for their bus.
+wait2.jpg#1	There is a book store behind the bus stop and the waiting bench.
+wait2.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait3.jpg#0	There are many people sitting on the waiting bench.
+wait3.jpg#1	There are two people talking to each other at the bus stop while waiting for a bus.
+wait3.jpg#2	The waiting bench is completely occupied.
+wait4.jpg#0	There are three people sitting on the waiting bench.
+wait4.jpg#1	There are two groups of people talking to each other at the bus stop while waiting for a bus.
+wait4.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait5.jpg#0	There are two kids sitting on the waiting bench at the bus stop.
+wait5.jpg#1	There is an old man waiting for his bus.
+wait5.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait6.jpg#0	There are three people sitting on the waiting bench.
+wait6.jpg#1	There are two people talking to each other at the bus stop while waiting for a bus.
+wait6.jpg#2	There are poster put up on the information board that is beside the waiting bench.
+wait7.jpg#0	There are three women sitting on the waiting bench.
+wait7.jpg#1	There are two women standing at the bus stop while waiting for a bus.
+wait7.jpg#2	There are poster put up on the information board that is beside the waiting bench.
+wait8.jpg#0	There is a woman sitting on the waiting bench.
+wait8.jpg#1	There is an information board behind the waiting bench which has bus routes.
+wait8.jpg#2	There are poster put up on the information board that is beside the waiting bench.
+wait9.jpg#0	There are two men sitting on the waiting bench.
+wait9.jpg#1	There are two women standing with their bags at the bus stop while waiting for a bus.
+wait9.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait10.jpg#0	There are three people sitting on the waiting bench.
+wait10.jpg#1	A man is looking at his phone while waiting for a bus.
+wait10.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait11.jpg#0	There are three people sitting on the waiting bench.
+wait11.jpg#1	There are people working on their laptop and phones at the bus stop while waiting for a bus.
+wait11.jpg#2	There is an empty space behind the bus stop’s waiting bench.
+wait12.jpg#0	There are three women sitting on the waiting bench at the bus stop.
+wait12.jpg#1	People are waiting for their bus with their bags.
+wait12.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait13.jpg#0	There is a man sitting on the waiting bench.
+wait13.jpg#1	A woman is about to sit on the waiting bench.
+wait13.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait14.jpg#0	There are two men sitting on the waiting bench.
+wait14.jpg#1	There is a park behind the bus stop’s waiting bench.
+wait14.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait15.jpg#0	There are three women sitting on the waiting bench.
+wait15.jpg#1	Three ladies are talking to each other at the bus stop while waiting for a bus.
+wait15.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait16.jpg#0	There are many people sitting on the waiting bench.
+wait16.jpg#1	There are a lot of trees behind the bus stop and the waiting bench.
+wait16.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait17.jpg#0	There are many people sitting on the waiting bench.
+wait17.jpg#1	Since there is no place to sit on the waiting bench.
+wait17.jpg#2	There is a big picture of scenery behind the waiting bench.
+wait18.jpg#0	There are two kids sitting on the bench while waiting for a bus.
+wait18.jpg#1	There are two kids escorted by an elderly person at the bus stop and are waiting for a bus.
+wait18.jpg#2	There is bus information poster put up on the board that is behind the waiting bench.
+wait19.jpg#0	There are two women sitting on the waiting bench.
+wait19.jpg#1	There is a big building behind the bus stop and the waiting bench.
+wait19.jpg#2	There is bus information poster put up on the board that is behind the waiting bench.
+wait20.jpg#0	There are many people sitting on the bench while waiting for a bus.
+wait20.jpg#1	There is a big poster beside the waiting bench.
+wait20.jpg#2	There is an information board behind the waiting bench which has bus routes.
+wait21.jpg#0	There are many people sitting on the bench while waiting for a bus.
+wait21.jpg#1	There are two people talking to each other at the bus stop while waiting for a bus.
+wait21.jpg#2	There is a big poster beside the waiting bench.
+wait22.jpg#0	There are many people sitting on the bench while waiting for a bus.
+wait22.jpg#1	There are two people expressing their affection towards each other at the bus stop while waiting for a bus.
+wait22.jpg#2	There is a big poster beside the waiting bench.
+wait23.jpg#0	A man is leaning against the poster board while waiting for a bus.
+wait23.jpg#1	There is a big poster beside the waiting bench.
+wait23.jpg#2	There are many people standing in the bus stop while waiting for a bus.
+wait24.jpg#0	There are two people talking to each other at the bus stop while waiting for a bus.
+wait24.jpg#1	There is a big poster behind the waiting bench.
+wait24.jpg#2	There are many women sitting on the waiting bench.
+wait25.jpg#0	There are two people talking to each other at the bus stop while waiting for a bus.
+wait25.jpg#1	There is an information board behind the waiting bench which has bus routes.
+wait25.jpg#2	There is a big poster beside the waiting bench.
+wait26.jpg#0	A man is disposing waste into the bin which is next to the waiting bench.
+wait26.jpg#1	There is a big picture of scenery behind the waiting bench.
+wait26.jpg#2	There is a group of women sitting and talking to each other while waiting for a bus.
+wait27.jpg#0	There are vehicles parked behind the waiting bench.
+wait27.jpg#1	There is an information board behind the waiting bench which has bus routes.
+wait27.jpg#2	There are four people sitting on the waiting bench.
+wait28.jpg#0	There are two people talking to each other at the bus stop while waiting for a bus.
+wait28.jpg#1	There is an information board behind the waiting bench which has bus routes.
+wait28.jpg#2	There are three women sitting on the waiting bench.
+wait29.jpg#0	There are vehicles parked behind the waiting bench.
+wait29.jpg#1	There is an information board behind the waiting bench which has bus routes.
+wait29.jpg#2	There are many people sitting on the bench while waiting for a bus.
+wait30.jpg#0	There are people standing and waiting at the bus stop.
+wait30.jpg#1	There are two people talking to each other at the bus stop while waiting for a bus.
+wait30.jpg#2	There is a big picture of scenery behind the waiting bench.
+wallet1.jpg#0	There is a black wallet on the table.
+wallet1.jpg#1	Black wallet has currency notes and a passport.		
+wallet1.jpg#2	A black wallet is kept on a table and it has a pen in it.
+wallet2.jpg#0	There is a black wallet on the table.
+wallet2.jpg#1	That black wallet has a lot of currency notes and credit cards.		
+wallet2.jpg#2	A black wallet is kept on corner of the table.
+wallet3.jpg#0	There is a well maintained black wallet on the table.
+wallet3.jpg#1	That black wallet has currency notes and few credit cards.		
+wallet3.jpg#2	A black wallet is kept on a brown wooden table.
+wallet4.jpg#0	There is a pink wallet on the table.
+wallet4.jpg#1	That pink wallet has a lot of currency notes.		
+wallet4.jpg#2	A pink wallet is kept on a brown wooden table and has a clutch attached to it.
+wallet5.jpg#0	There is a smart black card wallet on the table.
+wallet5.jpg#1	That black card Wallet has currency notes and cards in it.		
+wallet5.jpg#2	A black phone is charging from the wire attached to the smart card Wallet.
+wallet6.jpg#0	There is a smart brown card Wallet on the table.
+wallet6.jpg#1	That smart brown card Wallet is kept on a brown wooden table.		
+wallet6.jpg#2	A black phone is charging from the wire attached to the smart card Wallet.
+wallet7.jpg#0	There is a well maintained brown wallet on the table.
+wallet7.jpg#1	There is an phone and keys kept next to the wallet.		
+wallet7.jpg#2	A brown dotted wallet is kept on a wooden table.
+wallet8.jpg#0	There is a well maintained brown wallet on the table.
+wallet8.jpg#1	There is an phone a bunch of keys a baseball and papers kept next to the wallet.	
+wallet8.jpg#2	A brown dotted wallet is kept on a wooden table.
+wallet9.jpg#0	There is a black wallet on the table.
+wallet9.jpg#1	There is a car key next to the wallet.		
+wallet9.jpg#2	There is a sleek and shiny black wallet on a wooden table.
+wallet10.jpg#0	There is a black card Wallet on the table.
+wallet10.jpg#1	There is a watch on the table.		
+wallet10.jpg#2	A black card Wallet has many cards in it.
+wallet11.jpg#0	There is a smart brown card Wallet on the table.
+wallet11.jpg#1	That smart brown card Wallet is kept on a brown wooden table.		
+wallet11.jpg#2	There is a bunch of keys and newspapers kept beside the card Wallet.
+wallet12.jpg#0	There is a black wallet on the table.
+wallet12.jpg#1	There is a car key next to the wallet.			
+wallet12.jpg#2	There is a sleek and shiny black wallet on a wooden table.
+wallet13.jpg#0	There is a navy blue leather wallet on the table.
+wallet13.jpg#1	That blue wallet has few currency notes and credit cards.		
+wallet13.jpg#2	The navy blue wallet is well maintained and has a sleek design.
+wallet14.jpg#0	There is a red card Wallet kept on the table.
+wallet14.jpg#1	A red wallet has currency notes and credit cards.		
+wallet14.jpg#2	A sleek red card Wallet is kept on a white table.
+wallet15.jpg#0	There is a brown card Wallet on the table.
+wallet15.jpg#1	A brown card Wallet is kept on a wooden table.		
+wallet15.jpg#2	There are many items around the brown card Wallet.
+wallet16.jpg#0	There is a brown wallet on the table.
+wallet16.jpg#1	There are many credit cards lying next to the wallet.		
+wallet16.jpg#2	A well maintained brown wallet is kept on a wooden table.
+wallet17.jpg#0	There is a brown wallet on the table.
+wallet17.jpg#1	There are many things lying next to the wallet.		
+wallet17.jpg#2	A well maintained brown leather wallet is kept on a wooden table.
+wallet18.jpg#0	There is a black wallet with credit cards on the table.
+wallet18.jpg#1	A black phone, a car key is kept beside the black wallet.	
+wallet18.jpg#2	A black wallet is kept on a brown wooden table.
+wallet19.jpg#0	There is a black wallet on the table.
+wallet19.jpg#1	That black wallet has a lot of currency notes and credit cards.		
+wallet19.jpg#2	A black wallet is kept on corner of the table.
+wallet20.jpg#0	There is a brown wallet on the table.
+wallet20.jpg#1	There is a well maintained brown wallet on the table.
+wallet20.jpg#2	There is a phone and a bunch of keys kept next to the wallet.	
+wallet21.jpg#0	There is a black wallet on the table.
+wallet21.jpg#1	That black wallet has a lot of credit cards.		
+wallet21.jpg#2	A black wallet is kept on corner of the table and a bunch of keys are next to it.
+wallet22.jpg#0	There is a well maintained black wallet on the table.
+wallet22.jpg#1	There is a phone a bunch of keys and credit cards kept next to the wallet	
+wallet22.jpg#2	A black leather wallet is kept on a table.
+wallet23.jpg#0	There is a brown wallet on the table.
+wallet23.jpg#1	There are many things lying next to the wallet.		
+wallet23.jpg#2	A well maintained brown leather wallet is kept on a wooden table.
+wallet24.jpg#0	There is a black wallet on the table.
+wallet24.jpg#1	That black wallet has a lot of currency notes.		
+wallet24.jpg#2	A black leather wallet with currency notes is kept on a table.
+wallet25.jpg#0	There is a black wallet on the table.
+wallet25.jpg#1	There is a car key next to the wallet.			
+wallet25.jpg#2	There is a sleek and shiny black wallet on a wooden table.
+wallet26.jpg#0	There is a black wallet on the table.
+wallet26.jpg#1	That black wallet has credit cards and keys kept beside it.		
+wallet26.jpg#2	A well maintained black wallet is kept on a table.
+wallet27.jpg#0	There is a brown card Wallet on the table.
+wallet27.jpg#1	A brown card Wallet is kept on a wooden table.		
+wallet27.jpg#2	There are many items around the brown card Wallet.
+wallet28.jpg#0	There is a brown wallet on the table.
+wallet28.jpg#1	There are many things lying next to the wallet.		
+wallet28.jpg#2	A well maintained brown leather wallet is kept on a wooden table.
+wallet29.jpg#0	There are many wallets on the table.
+wallet29.jpg#1	The different coloured wallets are of similar design.		
+wallet29.jpg#2	There are many things around the wallets.
+wallet30.jpg#0	There is a brown wallet on the table.
+wallet30.jpg#1	That brown wallet has a lot of currency notes and credit cards.		
+wallet30.jpg#2	A well maintained brown wallet is kept on a table.
+washroom1.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom1.jpg#1	There are pictures on the doors to indicate the gender.
+washroom1.jpg#2	The doors are grey in colour.
+washroom2.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom2.jpg#1	There are pictures on the doors to indicate the gender.
+washroom2.jpg#2	The doors are grey in colour with white handles.
+washroom3.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom3.jpg#1	There are pictures on the doors to indicate the gender.
+washroom3.jpg#2	There is a planter with big plant in between the two.
+washroom4.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom4.jpg#1	There are pictures on the doors to indicate the gender.
+washroom4.jpg#2	There is a planter with big plant in between the two.
+washroom5.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom5.jpg#1	There are pictures on the doors to indicate the gender.
+washroom5.jpg#2	The doors are grey in colour.
+washroom6.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom6.jpg#1	There are pictures on the doors to indicate the gender.
+washroom6.jpg#2	The doors are grey in colour.
+washroom7.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom7.jpg#1	There is writing on the door saying push to open.
+washroom7.jpg#2	The doors are grey in colour with brown wall behind.
+washroom8.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom8.jpg#1	There are pictures on the doors to indicate the gender.
+washroom8.jpg#2	The doors are white in colour.
+washroom9.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom9.jpg#1	There are pictures on the doors  in pink and blue to indicate the gender.
+washroom9.jpg#2	The doors are grey in colour.
+washroom10.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom10.jpg#1	There are pictures on the doors to indicate the gender.
+washroom10.jpg#2	The doors are white in colour and symbols are in black colour.
+washroom11.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom11.jpg#1	There are pictures on the doors to indicate the gender.
+washroom11.jpg#2	The wall around the wash rooms are stone cladded.
+washroom12.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom12.jpg#1	There are pictures on the doors to indicate the gender.
+washroom12.jpg#2	The doors are white in colour and symbols are in black colour.
+washroom13.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom13.jpg#1	There are pictures on the doors to indicate the gender.
+washroom13.jpg#2	The doors are white in colour and symbols are in black colour.
+washroom14.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom14.jpg#1	There are pictures on the doors to indicate the gender.
+washroom14.jpg#2	The doors are grey in colour and symbols are in black colour.
+washroom15.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom15.jpg#1	There are pictures on the doors to indicate the gender in pink and blue colour.
+washroom15.jpg#2	The doors are white in colour and symbols are in black colour.
+washroom16.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom16.jpg#1	There are pictures on the doors to indicate the gender.
+washroom16.jpg#2	The pathway leading to washroom also has symbols.
+washroom17.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom17.jpg#1	There are pictures on the doors to indicate the gender.
+washroom17.jpg#2	The pathway leading to washroom has lights.
+washroom18.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom18.jpg#1	There are pictures on the doors to indicate the gender.
+washroom18.jpg#2	The pathway leading to washroom has multiple lights.
+washroom19.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom19.jpg#1	There are pictures on the doors to indicate the gender.
+washroom19.jpg#2	The walls around the washrooms are textured.
+washroom20.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom20.jpg#1	There are pictures with dots and lines on the doors to indicate the gender.
+washroom20.jpg#2	The doors are yellow in colour and symbols are in black colour.
+washroom21.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom21.jpg#1	There are pictures on the doors to indicate the gender.
+washroom21.jpg#2	The doors are pink and blue in colour indicating the gender again.
+washroom22.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom22.jpg#1	There are pictures on the doors to indicate the gender.
+washroom22.jpg#2	The doors are white in colour and symbols are in pink and blue in colour.
+washroom23.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom23.jpg#1	There are pictures on the doors to indicate the gender.
+washroom23.jpg#2	The doors are pink and blue in colour indicating the gender again.
+washroom24.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom24.jpg#1	There are pictures on the doors to indicate the gender.
+washroom24.jpg#2	The doors are pink and blue in colour indicating the gender again.
+washroom25.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom25.jpg#1	There are pictures on the doors to indicate the gender.
+washroom25.jpg#2	Their are yellow lamps above both the doors.
+washroom26.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom26.jpg#1	There are pictures on the doors to indicate the gender.
+washroom26.jpg#2	The doors are yellow and blue in colour and symbols are in black colour.
+washroom27.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom27.jpg#1	There are pictures on the doors to indicate the gender.
+washroom27.jpg#2	The doors are red in colour and symbols are in black colour.
+washroom28.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom28.jpg#1	There are pictures on the doors to indicate the gender.
+washroom28.jpg#2	The doors are white and red in colour and symbols are in black colour.
+washroom29.jpg#0	Three each of Gent’s and Ladies wash rooms are adjacent to one another.
+washroom29.jpg#1	There are pictures on the wall colour coded to indicate the gender.
+washroom29.jpg#2	The doors are pink and blue in colour indicating the gender.
+washroom30.jpg#0	The Gent’s and Ladies wash rooms are adjacent to one another.
+washroom30.jpg#1	There are pictures with dots and lines on the doors to indicate the gender.
+washroom30.jpg#2	The doors are yellow in colour and symbols are in black colour.
+wetfloor1.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor1.jpg#1	the floor ahead is wet.
+wetfloor1.jpg#2	there are multiple windows present in the hallway.
+wetfloor2.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor2.jpg#1	the floor ahead is wet.
+wetfloor2.jpg#2	there is a plant next to the caution board.
+wetfloor3.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor3.jpg#1	the floor ahead is wet.
+wetfloor3.jpg#2	there is a man mopping behind the caution board.
+wetfloor4.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor4.jpg#1	the floor ahead is wet.
+wetfloor4.jpg#2	there is bucket next to the caution sign.
+wetfloor5.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor5.jpg#1	the floor ahead is wet.
+wetfloor5.jpg#2	threre are multiple yellow boards behind the caution sign.
+wetfloor6.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor6.jpg#1	the floor ahead is wet.
+wetfloor6.jpg#2	there is a man walking behind the caution sign.
+wetfloor7.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor7.jpg#1	the floor ahead is wet.
+wetfloor7.jpg#2	there are stairs in front of the caution sign.
+wetfloor8.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor8.jpg#1	the floor ahead is wet.
+wetfloor8.jpg#2	the floor is dark in colour.
+wetfloor9.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor9.jpg#1	the floor ahead is wet.
+wetfloor9.jpg#2	a fountain is present behind the caution sign.
+wetfloor10.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor10.jpg#1	the floor ahead is wet.
+wetfloor10.jpg#2	there are multiple shelves present along the aisle.
+wetfloor11.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor11.jpg#1	the floor ahead is wet.
+wetfloor11.jpg#2	there are multiple food shelves present along the aisle.
+wetfloor12.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor12.jpg#1	the floor ahead is wet.
+wetfloor12.jpg#2	a few people are mopping the floor behind the caution sign.
+wetfloor13.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor13.jpg#1	the floor ahead is wet.
+wetfloor13.jpg#2	there is a wall present at the end of the hall.
+wetfloor14.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor14.jpg#1	the floor ahead is wet.
+wetfloor14.jpg#2	a large water patch is present in front of the sign.
+wetfloor15.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor15.jpg#1	the floor ahead is wet.
+wetfloor15.jpg#2	a janitor is standing behind the caution sign.
+wetfloor16.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor16.jpg#1	the floor ahead is wet.
+wetfloor16.jpg#2	there are multiple yellow boards behind the caution sign.
+wetfloor17.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor17.jpg#1	the floor ahead is wet.
+wetfloor17.jpg#2	there is a mop behind the caution sign.
+wetfloor18.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor18.jpg#1	the floor ahead is wet.
+wetfloor18.jpg#2	there is a mop next to the caution sign.
+wetfloor19.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor19.jpg#1	the floor ahead is wet.
+wetfloor19.jpg#2	there are stairs behind the caution sign.
+wetfloor20.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor20.jpg#1	the floor ahead is wet.
+wetfloor20.jpg#2	there is a mop behind the caution sign.
+wetfloor21.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor21.jpg#1	the floor ahead is wet.
+wetfloor21.jpg#2	food shelves are present on both sides of the aisle.
+wetfloor22.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor22.jpg#1	the floor ahead is wet.
+wetfloor22.jpg#2	food shelf is present along the aisle.
+wetfloor23.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor23.jpg#1	the floor ahead is wet.
+wetfloor23.jpg#2	a magazine shelf is present along the aisle.
+wetfloor24.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor24.jpg#1	the floor ahead is wet.
+wetfloor24.jpg#2	there is a bucket present next to the caution sign.
+wetfloor25.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor25.jpg#1	the floor ahead is wet.
+wetfloor25.jpg#2	there is a door behind the caution sign.
+wetfloor26.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor26.jpg#1	the floor ahead is wet.
+wetfloor26.jpg#2	there plants behind the caution sign.
+wetfloor27.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor27.jpg#1	the floor ahead is wet.
+wetfloor27.jpg#2	there is a seating area behind the caution sign.
+wetfloor28.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor28.jpg#1	the floor ahead is wet.
+wetfloor28.jpg#2	there are multiple trees behind the caution sign.
+wetfloor29.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor29.jpg#1	the floor ahead is wet.
+wetfloor29.jpg#2	there is a door behind the caution sign.
+wetfloor30.jpg#0	there is a yellow board saying caution wet floor.
+wetfloor30.jpg#1	the floor ahead is wet.
+wetfloor30.jpg#2	people are walking behind the sign.
